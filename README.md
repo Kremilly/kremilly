@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/_nrzUUu02xcAAAAd/violet-evergarden.gif">
+  <img src="violet.gif">
 </div>
 
 ## Hello World! 👋
