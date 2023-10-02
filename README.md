@@ -4,7 +4,7 @@
 
 ## Hello World! 👋
 
-My name is Emily, but you can call me **Kremilly**. I'm brazillian transgender woman, 25 years old. That love learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer with 15 years old, in language **VB.Net** (*Hard times*).
+My name is Emily, but you can call me **Kremilly**. I'm brazillian transgender woman, 25 years old. That love learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer with 15 years old, in the **VB.Net** language (*Hard times*).
 
 - 🔭 I’m currently working on [Linkscraper](https://github.com/Kremilly/linkscraper)
 - 🌱 I’m currently learning Go, Rust & Ruby
@@ -19,7 +19,7 @@ My social media
 * [Twitter](https://twitter.com/emicosi)
 
 Education
-* Analysis and systems development on [UNIP](http://www.unip.br/ead/)
+* Systems Analysis and Development at [UNIP](http://www.unip.br/ead/)
 
 ## My current languages
 
