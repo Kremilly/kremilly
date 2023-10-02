@@ -69,7 +69,7 @@ Education
 <div align="left";>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" /></a>
   <a href="https://jetbrains.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="36" /></a>
-  <a href="https://www.vim.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="36" /></a>
+  <a href="https://micro-editor.github.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/21361806?s=280&v=4" width="36" /></a>
 </div>
 
 ### System's
