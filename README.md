@@ -23,6 +23,9 @@ My social media
 Education
 * Systems Analysis and Development at [UNIP](http://www.unip.br/ead/)
 
+Links for community
+* [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
+
 ## My current languages
 
 <div align="left";>
