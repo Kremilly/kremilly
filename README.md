@@ -6,6 +6,8 @@
 
 My name is Emily, but you can call me **Kremilly**. I'm brazillian transgender woman, 25 years old. That loves learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer as a 15 years old, in the **VB.Net** language (*Hard times*).
 
+<img align="right" src="dancing-gopher.gif" />
+
 - 🔭 I’m currently working on [Linkscraper](https://github.com/Kremilly/linkscraper)
 - 🌱 I’m currently learning Go, Rust & Ruby
 - 💬 Ask me about Programming languages, Astronomy, Music
@@ -77,8 +79,4 @@ Education
 <div align="left";>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" /></a>
   <a href="https://ubuntu.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" /></a>
-</div>
-
-<div align="center";>
-  <img src="dancing-gopher.gif" />
 </div>
