@@ -26,6 +26,9 @@ Education
 Links for community
 * [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
 
+Religion books that I follow
+* [DarkLibrary (PT-BR)](https://github.com/kremilly/darklibrary)
+
 ## My current languages
 
 <div align="left";>
