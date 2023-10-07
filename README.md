@@ -10,7 +10,8 @@ My name is Emily, but you can call me **Kremilly**. I'm brazillian transgender w
 
 - 🔭 I’m currently working on [Linkscraper](https://github.com/Kremilly/linkscraper)
 - 🌱 I’m currently learning Go, Rust & Ruby
-- 💬 Ask me about Programming languages, Astronomy, Music
+- 🛐 I’m follow the [LaVey Satanism](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
+- 💬 Ask me about Programming languages, Astronomy, Music & LaVey Satanism
 - 📫 How to reach me: kremilly@proton.me
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.
@@ -25,9 +26,6 @@ Education
 
 Links for community
 * [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
-
-Religion books that I follow
-* [DarkLibrary (PT-BR)](https://github.com/kremilly/darklibrary)
 
 ## My current languages
 
