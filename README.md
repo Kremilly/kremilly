@@ -10,7 +10,7 @@ My name is Emily, but you can call me **Kremilly**. I'm brazillian transgender w
 
 - 🔭 I’m currently working on [Linkscraper](https://github.com/Kremilly/linkscraper)
 - 🌱 I’m currently learning Go, Rust & Ruby
-- 🛐 I’m follow the [LaVey Satanism](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
+- ☯️ I’m follow the [LaVey Satanism](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
 - 💬 Ask me about Programming languages, Astronomy, Music & LaVey Satanism
 - 📫 How to reach me: kremilly@proton.me
 - 😄 Pronouns: She/Her
