@@ -18,6 +18,7 @@ My name is Emily, but you can call me **Kremilly**. I'm brazillian transgender w
 
 My social media
 
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut" align="right" />
 
 * [Dev.to](https://dev.to/kremilly)
