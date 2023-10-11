@@ -18,9 +18,6 @@ My name is Emily, but you can call me **Kremilly**. I'm brazillian transgender w
 
 My social media
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut" align="right" />
-
 * [Dev.to](https://dev.to/kremilly)
 * [Twitter](https://twitter.com/emicosi)
 
@@ -31,6 +28,8 @@ Links for community
 * [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
 
 ## My current languages
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut" />
 
 <div align="left";>
   <a href="https://php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" /></a>
