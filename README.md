@@ -21,6 +21,8 @@ My social media
 * [Dev.to](https://dev.to/kremilly)
 * [Twitter](https://twitter.com/emicosi)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&hide_progress=true" align="right" />
+
 Education
 * Systems Analysis and Development at [UNIP](http://www.unip.br/ead/)
 
