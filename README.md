@@ -29,7 +29,7 @@ Links for community
 
 ## My current languages
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=dark" />
 
 <div align="left";>
   <a href="https://php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" /></a>
