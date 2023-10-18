@@ -1,5 +1,4 @@
 <img align="left" height="230px" src="violet-sprite.png" alt="Profile picture" />
-
 <h3>Hello World! 👋</h3>
 
 Greetings, my name is *Emily*, but you can refer to me as **Kremilly**. I'm a 25-year-old transgender woman from Brazil with a deep passion for programming languages, technology, astronomy, music, and various other subjects. My journey in programming began a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (those were some challenging times!).
@@ -13,7 +12,7 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 - 🌱 I’m currently learning Go & Rust
 - 🏫 I studied Systems Analysis and Development at [UNIP](http://www.unip.br)
 - ☯️ I’m follow the [LaVey Satanism](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
-- 💡 My main linguages are Python and Rust
+- 💡 My main linguages are [**Python**](https://python.org) and [**Rust**](https://www.rust-lang.org)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.
 
