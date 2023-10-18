@@ -3,7 +3,6 @@
 
 Greetings, my name is *Emily*, but you can refer to me as **Kremilly**. I'm a 25-year-old transgender woman from Brazil with a deep passion for programming languages, technology, astronomy, music, and various other subjects. My journey in programming began a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (those were some challenging times!).
 
-
 I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autistic**](https://en.wikipedia.org/wiki/Autism_spectrum), and my hyperfocus is on learning new things about programming languages and topics related to science and religion. However, I also have a keen interest in learning about psychology and philosophy.
 
 <img align="right" src="dancing-gopher.gif" />
@@ -19,6 +18,7 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 <div align='center'>
   <a href='https://dev.to/kremilly'><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>
   <a href='https://twitter.com/emicosi'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
+  <a href='https://instagram.com/hikremilly'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' /></a>
 </div>
 
 Links for community
