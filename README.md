@@ -16,10 +16,10 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.
 
-My social media
-
-<a href='https://dev.to/kremilly'><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>
-<a href='https://twitter.com/emicosi'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
+<div align='center'>
+  <a href='https://dev.to/kremilly'><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>
+  <a href='https://twitter.com/emicosi'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
+</div>
 
 Links for community
 * [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
@@ -35,17 +35,6 @@ Links for community
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" /></a>
   <a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="36" /></a>
   <a href="https://rust-lang.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="36" /><a>
-</div>
-
-### Frameworks
-
-<div align="left";>
-  <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="36" /></a>
-  <a href="https://rubyonrails.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="36" /></a>
-  <a href="https://www.electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="36" /></a>
-  <a href="https://vuejs.org" target="_balnk"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" /></a>
-  <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" /></a>
-  <a href="https://getbootstrap.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" /></a>
 </div>
 
 ### Databases
