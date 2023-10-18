@@ -8,10 +8,10 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 
 <img align="right" src="dancing-gopher.gif" />
 
-- 🔭 I’m currently working on [Linkscraper](https://github.com/Kremilly/linkscraper) & [Paimon](https://github.com/Kremilly/Paimon)
+- 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/Kremilly/Paimon)
 - 🌱 I’m currently learning Go & Rust
-- 🏫 I studied Systems Analysis and Development at [UNIP](http://www.unip.br)
-- ☯️ I’m follow the [LaVey Satanism](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
+- 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
+- ☯️ I’m follow the [**LaVey Satanism**](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
 - 💡 My main linguages are [**Python**](https://python.org) and [**Rust**](https://www.rust-lang.org)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.
@@ -23,7 +23,7 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 
 Links for community
 
-* [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
+* [**Rust Essentials for VSCode**](https://github.com/kremilly/rust-vscode-extensions)
 
 ### My current languages
 
