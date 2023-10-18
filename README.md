@@ -21,9 +21,6 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
   <a href='https://twitter.com/emicosi'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
 </div>
 
-Links for community
-* [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
-
 ## My current languages
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />
