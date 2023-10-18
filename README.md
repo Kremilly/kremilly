@@ -25,7 +25,7 @@ Links for community
 
 * [**Rust Essentials for VSCode**](https://github.com/kremilly/rust-vscode-extensions)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
 
 #### Current Languages
 
