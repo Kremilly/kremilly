@@ -11,7 +11,7 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 - 🌱 I’m currently learning Go & Rust
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
 - ☯️ I’m follow the [**LaVey Satanism**](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
-- 💡 My main linguages are [**Python**](https://python.org) and [**Rust**](https://www.rust-lang.org)
+- 💡 My main linguages are [**Python**](https://python.org) and [**PHP**](https://php.net)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.
 
