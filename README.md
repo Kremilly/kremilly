@@ -59,6 +59,13 @@ Links for community
   <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
 </div>
 
+#### Misc
+
+<div align="left";>
+  <a href='https://git-scm.com'><img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' /></a>
+  <a href="https://docker.com"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+</div>
+
 #### System's
 
 <div align="left";>
