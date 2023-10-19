@@ -3,7 +3,7 @@
 
 Greetings, my name is *Emily*, but you can refer to me as **Kremilly**. I'm a 25-year-old transgender woman from Brazil with a deep passion for programming languages, technology, astronomy, music, and various other subjects. My journey in programming began a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (those were some challenging times!).
 
-I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autistic**](https://en.wikipedia.org/wiki/Autism_spectrum), and my hyperfocus is on learning new things about programming languages and topics related to science and religion. However, I also have a keen interest in learning about psychology and philosophy.
+I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autistic**](https://en.wikipedia.org/wiki/Autism_spectrum), and my hyperfocus is on learning new things about programming languages and topics related to science, psychology, philosophy and religion.
 
 <img align="right" src="dancing-gopher.gif" />
 
