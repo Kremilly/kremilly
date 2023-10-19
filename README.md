@@ -15,11 +15,11 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.
 
-<div align='center'>
+<!--<div align='center'>
   <a href='https://dev.to/kremilly'><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>
   <a href='https://twitter.com/emicosi'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
   <a href='https://instagram.com/hikremilly'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' /></a>
-</div>
+</div>-->
 
 Links for community
 
