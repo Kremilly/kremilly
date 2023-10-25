@@ -7,6 +7,7 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 
 <img align="right" src="dancing-gopher.gif" />
 
+<hr>
 
 - 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/Kremilly/Paimon)
 - 🌱 I’m currently learning Go & Rust
