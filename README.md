@@ -19,7 +19,7 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 
 <!--<div align='center'>
   <a href='https://dev.to/kremilly'><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>
-  <a href='https://twitter.com/emicosi'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
+  <a href='https://twitter.com/hikremilly'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' /></a>
   <a href='https://instagram.com/hikremilly'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' /></a>
 </div>-->
 
