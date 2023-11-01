@@ -1,21 +1,22 @@
-<img align="left" height="250px" src="violet-sprite.png" alt="Profile picture" />
+<img align="left" height="180px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
 <h3>Hello World! 👋</h3>
 
-Greetings, my name is *Emily*, but you can refer to me as **Kremilly**. I'm a 25-year-old transgender woman from Brazil with a deep passion for learning new things. My journey in programming began a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (those were some challenging times!).
+<!--Greetings, my name is *Emily*, but you can refer to me as **Kremilly**. I'm a 25-year-old transgender woman from Brazil with a deep passion for learning new things. My journey in programming began a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (those were some challenging times!). I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autistic**](https://en.wikipedia.org/wiki/Autism_spectrum), and my hyperfocus is on learning new things about programming languages and topics related to science, psychology, philosophy and religion.-->
 
-I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autistic**](https://en.wikipedia.org/wiki/Autism_spectrum), and my hyperfocus is on learning new things about programming languages and topics related to science, psychology, philosophy and religion.
+Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgender woman from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (that was quite a challenge!). I have [**bipolar disorder**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autism**](https://en.wikipedia.org/wiki/Autism_spectrum), and I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
 
-<img align="right" src="dancing-gopher.gif" />
+<img align="right" width="140px" src="dancing-gopher.gif" alt="gopher dancing" />
 
-<hr>
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
+
+<br>
 
 - 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/Kremilly/Paimon)
 - 🌱 I’m currently learning Go & Rust
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
-- ☯️ I’m follow the [**LaVey Satanism**](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
 - 💡 My main linguages are [**Python**](https://python.org) and [**PHP**](https://php.net)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.
+<!--- ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.-->
 
 <!--<div align='center'>
   <a href='https://dev.to/kremilly'><img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white' /></a>
@@ -26,8 +27,6 @@ I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autist
 Links for community
 
 * [**Rust Essentials for VSCode**](https://github.com/kremilly/rust-vscode-extensions)
-
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
 
 #### Current Languages
 
@@ -40,7 +39,7 @@ Links for community
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
 </div>
 
-<hr>
+---
 
 <details>
   <summary>See view complete my stack</summary>
