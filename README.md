@@ -32,6 +32,9 @@ Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgen
     <li>
       <a href="https://github.com/kremilly/rust-vscode-extensions">Rust Essentials for VSCode</a>
     </li>
+    <li>
+      <a href="https://github.com/kremilly/git4noobs">Git for Noobs</a>
+    </li>
   </ul>
 </details>
 
