@@ -16,6 +16,7 @@ Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgen
 - 🌱 I’m currently learning Go & Rust
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) and [**PHP**](https://php.net)
+- ☯️ I’m follow the [**LaVey Satanism**](https://en.wikipedia.org/wiki/LaVeyan_Satanism)
 - 😄 Pronouns: She/Her
 <!--- ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.-->
 
