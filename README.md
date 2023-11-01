@@ -25,9 +25,14 @@ Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgen
   <a href='https://instagram.com/hikremilly'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' /></a>
 </div>-->
 
-Links for community
-
-* [**Rust Essentials for VSCode**](https://github.com/kremilly/rust-vscode-extensions)
+<details>
+  <summary>Links for community</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/kremilly/rust-vscode-extensions">Rust Essentials for VSCode</a>
+    </li>
+  </ul>
+</details>
 
 #### Current Languages
 
