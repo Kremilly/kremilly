@@ -27,33 +27,36 @@ Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgen
 
 <details>
   <summary>Api's public</summary>
+  
   <ul>
     <li>
-      <a href="https://github.com/AgiosLux/pdfThumb">pdfThumb</a>
+      <b><a href="https://github.com/AgiosLux/pdfThumb">pdfThumb</a></b>
     </li>
   </ul>
 </details>
 
 <details>
   <summary>PHP Packages</summary>
+  
   <ul>
     <li>
-      <a href="https://github.com/AgiosLux/phpRouter">phpRouter</a>
+      <b><a href="https://github.com/AgiosLux/phpRouter">phpRouter</a></b>
     </li>
   </ul>
 </details>
 
 <details>
   <summary>Links for community</summary>
+  
   <ul>
     <li>
-      <a href="https://github.com/kremilly/rust-vscode-extensions">Rust Essentials for VSCode</a>
+      <b><a href="https://github.com/kremilly/rust-vscode-extensions">Rust Essentials for VSCode</a></b>
     </li>
     <li>
-      <a href="https://github.com/kremilly/git4noobs">Git for Noobs</a>
+      <b><a href="https://github.com/kremilly/git4noobs">Git for Noobs</a></b>
     </li>
     <li>
-      <a href="https://github.com/AgiosLux/pdfThumb">pdfThumb</a>
+      <b><a href="https://github.com/AgiosLux/pdfThumb">pdfThumb</a></b>
     </li>
   </ul>
 </details>
