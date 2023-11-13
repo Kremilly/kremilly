@@ -32,6 +32,9 @@ Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgen
     <li>
       <b><a href="https://github.com/AgiosLux/pdfThumb">pdfThumb</a></b>
     </li>
+    <li>
+      <b><a href="https://github.com/kremilly/ghPinnedAPI">ghPinnedAPI</a></b>
+    </li>
   </ul>
 </details>
 
