@@ -12,7 +12,8 @@ Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgen
 
 <hr>
 
-- 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/AgiosLux/Paimon)<!--- 💻 Here's my personal [**website**](https://github.com/kremilly/#)-->
+- 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/AgiosLux/Paimon)
+- 💻 Here's my personal [**website**](https://kremilly.github.io/website)-->
 - 🌱 I’m currently learning Go & Rust
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) and [**PHP**](https://php.net)
