@@ -4,7 +4,7 @@
 
 <!--Greetings, my name is *Emily*, but you can refer to me as **Kremilly**. I'm a 25-year-old transgender woman from Brazil with a deep passion for learning new things. My journey in programming began a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (those were some challenging times!). I am [**bipolar**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autistic**](https://en.wikipedia.org/wiki/Autism_spectrum), and my hyperfocus is on learning new things about programming languages and topics related to science, psychology, philosophy and religion.-->
 
-Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgender woman from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I have [**bipolar disorder**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autism**](https://en.wikipedia.org/wiki/Autism_spectrum), and I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
+Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I have [**bipolar disorder**](https://en.wikipedia.org/wiki/Bipolar_disorder) and [**autism**](https://en.wikipedia.org/wiki/Autism_spectrum), and I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
 
 <img align="right" width="140px" src="dancing-gopher.gif" alt="gopher dancing" />
 
