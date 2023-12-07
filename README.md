@@ -73,7 +73,7 @@ Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgen
   <a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
 </div>
-
+<!--
 ---
 
 <details>
@@ -114,3 +114,4 @@ Hello, I'm *Emily*, but you can call me **Kremilly**. I'm a 25-year-old transgen
     <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   </div>
 </details>
+-->
