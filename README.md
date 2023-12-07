@@ -10,7 +10,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
 
-<hr>
+<br><br>
 
 - 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/AgiosLux/Paimon)
 - 💻 Here's my personal [**website**](https://kremilly.com)
