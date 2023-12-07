@@ -27,6 +27,25 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 </div>-->
 
 <details>
+  <summary>Diagnosis</summary>
+  
+  <ul>
+    <li>
+      <b><a href="https://en.wikipedia.org/wiki/Cerebral_palsy">Cerebal Palsy spastic quadriplegia (CID G 80.0)</a></b>
+    </li>
+    <li>
+      <b><a href="https://en.wikipedia.org/wiki/Muscular_dystrophy">Muscular Distrophy (CID G 71.0)</a></b>
+    </li>
+    <li>
+      <b><a href="https://en.wikipedia.org/wiki/Bipolar_disorder">Bipolar Disorder (CID F 31)</a></b>
+    </li>
+    <li>
+      <b><a href="https://en.wikipedia.org/wiki/Autism_spectrum">Autism spectrum (CID 6A02.0)</a></b>
+    </li>
+  </ul>
+</details>
+
+<details>
   <summary>Public API's</summary>
   
   <ul>
