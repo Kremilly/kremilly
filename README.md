@@ -1,4 +1,4 @@
-<img align="left" height="160px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
+<img align="left" height="180px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
 
 <h3>Hello World! 👋</h3>
 
@@ -10,7 +10,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
 
-<br>
+<hr>
 
 - 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/AgiosLux/Paimon)
 - 💻 Here's my personal [**website**](https://kremilly.com)
