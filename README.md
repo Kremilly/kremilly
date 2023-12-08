@@ -16,7 +16,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 - 💻 Here's my personal [**website**](https://kremilly.com)
 - 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
-- 💡 My main linguages are [**Python**](https://python.org) and [**PHP**](https://php.net)
+- 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
 - 😄 Pronouns: `She/Her`
 <!--- ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.-->
 
