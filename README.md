@@ -14,7 +14,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 
 - 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/AgiosLux/Paimon)
 - 💻 Here's my personal [**website**](https://kremilly.com)
-- 🌱 I’m currently learning Go & Rust
+- 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) and [**PHP**](https://php.net)
 - 😄 Pronouns: `She/Her`
