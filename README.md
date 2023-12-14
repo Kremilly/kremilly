@@ -4,11 +4,18 @@
 
 Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
 
+<div align="center">
+  <b><a href="https://kremilly.com">Website</a></b> | 
+  <b><a href="https://bsky.app/profile/kremilly.bsky.social">Blue Sky</a></b> | 
+  <b><a href="https://twitter.com/import_kremilly">Twitter</a></b> | 
+  <b><a href="https://dev.to/kremilly">Dev.to</a></b>
+</div>
+
 <img align="right" width="140px" src="dancing-gopher.gif" alt="gopher dancing" />
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
 
-<hr><br>
+<hr>
 
 - 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/AgiosLux/Paimon)
 - 💻 Here's my personal [**website**](https://kremilly.com)
