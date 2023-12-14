@@ -1,10 +1,19 @@
 <img align="left" height="180px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
 
-<h3>Hello World! 👋</h3>
-
 Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
 
-<div align="left">
+<div align="left";>
+  <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
+</div>
+
+<p></p>
+
+<div align="left";>
   <b><a href="https://kremilly.com">Website</a></b> | 
   <b><a href="https://bsky.app/profile/kremilly.bsky.social">Blue Sky</a></b> | 
   <b><a href="https://twitter.com/import_kremilly">Twitter</a></b> | 
@@ -16,8 +25,6 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 <img align="right" width="140px" src="dancing-gopher.gif" alt="gopher dancing" />
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
-
-<br>
 
 - 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper) & [**Paimon**](https://github.com/AgiosLux/Paimon)
 - 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
@@ -85,16 +92,6 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 </details>
 
 <!--
-<div align="left";>
-  <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
-  <a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
-</div>
----
-
 <details>
   <summary>See view complete my stack</summary>
   
