@@ -1,4 +1,4 @@
-<img align="left" height="230px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
+<img align="left" height="220px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
 
 <h3>Hello World! 👋</h3>
 
