@@ -1,4 +1,4 @@
-<!--<img align="left" height="220px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />-->
+<img align="left" width="360px" height="240px" align="right" src="violet-sprite.png" alt="rei-ayanami avatar" />
 
 <h3>Hello, World! <img height="30px" src="https://github.com/kremilly/kremilly/blob/main/ferris.gif" /></h3>
 
