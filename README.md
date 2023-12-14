@@ -4,6 +4,8 @@
 
 Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
 
+> #FreePalestine
+
 <div align="left";>
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
