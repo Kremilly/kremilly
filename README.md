@@ -1,6 +1,6 @@
-<img align="left" height="220px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
+<img align="left" height="215px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
 
-<h3>Hello World! 👋</h3>
+<h3>Hello, World! 👋</h3>
 
 Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
 
