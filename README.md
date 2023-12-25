@@ -1,8 +1,8 @@
-<!--<img align="left" height="230px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />-->
+<!--<img align="left" height="230px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
 
 <div align="center">
   <img src="violet.gif" height="270px" alt="violet gif" />
-</div>
+</div>-->
 
 <h2>Hello, World! <img height="30px" src="ferris.gif" alt="ferris gif" /></h2>
 
