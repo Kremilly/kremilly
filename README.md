@@ -4,9 +4,9 @@
   <img src="violet.gif" height="270px" alt="violet gif" />
 </div>-->
 
-<h2>Hello, World! <img height="30px" src="ferris.gif" alt="ferris gif" /></h2>
+<h2>Hello, World! <!--<img height="30px" src="ferris.gif" alt="ferris gif" />--></h2>
 
-Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
+Hello, I'm *Kremilly*. I'm a 25-year-old from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
 
 <div align="left";>
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
@@ -29,7 +29,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
   <b><a href="https://steamcommunity.com/id/kremilly/">Steam</a></b>
 </div>
 
-<img align="right" width="140px" src="dancing-gopher.gif" alt="gopher dancing" />
+<!--<img align="right" width="140px" src="dancing-gopher.gif" alt="gopher dancing" />-->
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
 
