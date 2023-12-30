@@ -40,7 +40,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 - 😄 Pronouns: `She/Her`
 <!--- ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.-->
 
-<details>
+<!--<details>
   <summary>Diagnosis</summary>
   
   <ul>
@@ -57,7 +57,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
       <b><a href="https://en.wikipedia.org/wiki/Autism_spectrum">Autism spectrum (CID 6A02.0)</a></b>
     </li>
   </ul>
-</details>
+</details>-->
 
 <details>
   <summary>Public API's</summary>
