@@ -22,10 +22,10 @@ Hello, I'm *Kremilly*. I'm a 25-year-old transgender woman from Brazil with a st
 
 <div align="left";>
   <b><a href="https://kremilly.com">Website</a></b> | 
-  <b><a href="https://bsky.app/profile/kremilly.bsky.social">Blue Sky</a></b> | 
-  <b><a href="https://twitter.com/import_kremilly">Twitter</a></b> | 
-  <b><a href="https://dev.to/kremilly">Dev.to</a></b> | 
-  <b><a href="https://discordapp.com/users/433832697501319178">Discord</a></b> | 
+  <b><a href="https://bsky.app/profile/kremilly.bsky.social">Blue Sky</a></b> <!--| 
+  <b><a href="https://twitter.com/import_kremilly">Twitter</a></b>--> | 
+  <b><a href="https://dev.to/kremilly">Dev.to</a></b> <!--| 
+  <b><a href="https://discordapp.com/users/433832697501319178">Discord</a></b>--> | 
   <b><a href="https://steamcommunity.com/id/kremilly/">Steam</a></b>
 </div>
 
