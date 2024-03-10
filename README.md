@@ -93,7 +93,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old from Brazil with a strong passion for l
       <b><a href="https://github.com/kremilly/rust-vscode-extensions">Rust Essentials for VSCode</a></b>
     </li>
     <li>
-      <b><a href="https://github.com/kremilly/nvim-configs">My Nvim configs</a></b>
+      <b><a href="https://github.com/kremilly/dev-configs">My development configs</a></b>
     </li>
     <li>
       <b><a href="https://github.com/kremilly/git4noobs">Git for Noobs</a></b>
