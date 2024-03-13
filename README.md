@@ -16,6 +16,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old from Brazil with a strong passion for l
   <a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
   <a href="https://elixir-lang.org"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" /><a>
+  <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /><a>
 </div>
 
 <p></p>
