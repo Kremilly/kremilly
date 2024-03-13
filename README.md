@@ -64,7 +64,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old from Brazil with a strong passion for l
 </details>-->
 
 <details>
-  <summary>Public API's</summary>
+  <summary>🔄 Public API's</summary>
   
   <ul>
     <li>
@@ -77,7 +77,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old from Brazil with a strong passion for l
 </details>
 
 <details>
-  <summary>PHP Packages</summary>
+  <summary>🐘 PHP Packages</summary>
   
   <ul>
     <li>
@@ -87,7 +87,7 @@ Hello, I'm *Kremilly*. I'm a 25-year-old from Brazil with a strong passion for l
 </details>
 
 <details>
-  <summary>Links for community</summary>
+  <summary>🌐 Links for community</summary>
   
   <ul>
     <li>
