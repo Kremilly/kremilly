@@ -6,7 +6,7 @@
 
 <h2>Hello, World! <!--<img height="30px" src="ferris.gif" alt="ferris gif" />--></h2>
 
-Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy, and religion.
+Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy & religion.
 
 <div align="left";>
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
