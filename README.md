@@ -37,7 +37,6 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
 
-- 🔭 I’m currently working on [**Linkscraper**](https://github.com/Kremilly/linkscraper), [**SciScrape**](https://github.com/kremilly/SciScrape) & [**Paimon**](https://github.com/AgiosLux/Paimon)
 - 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
@@ -62,6 +61,22 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
     </li>
   </ul>
 </details>-->
+
+<details>
+  <summary>🛠️ My Projects</summary>
+  
+  <ul>
+    <li>
+      <b><a href="https://github.com/Kremilly/linkscraper">Linkscraper</a></b>
+    </li>
+    <li>
+      <b><a href="https://github.com/kremilly/SciScrape">SciScrape</a></b>
+    </li>
+    <li>
+      <b><a href="https://github.com/AgiosLux/Paimon">Paimon</a></b>
+    </li>
+  </ul>
+</details>
 
 <details>
   <summary>🔄 Public API's</summary>
