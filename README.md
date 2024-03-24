@@ -8,7 +8,7 @@
 
 Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy & religion.
 
-<div align="left";>
+<div align="center";>
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
@@ -17,18 +17,6 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
   <a href="https://elixir-lang.org"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" /><a>
   <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /><a>
-</div>
-
-<p></p>
-
-<div align="left";>
-  <b><a href="https://kremilly.com">Website</a></b> | 
-  <b><a href="https://bsky.app/profile/kremilly.bsky.social">Blue Sky</a></b> <!--| 
-  <b><a href="https://twitter.com/import_kremilly">Twitter</a></b>--> | 
-  <b><a href="https://dev.to/kremilly">Dev.to</a></b> <!--| 
-  <b><a href="https://discordapp.com/users/433832697501319178">Discord</a></b>--> | 
-  <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> |
-  <b><a href="https://steamcommunity.com/id/kremilly/">Steam</a></b>
 </div>
 
 <!--<img align="right" width="140px" src="dancing-gopher.gif" alt="gopher dancing" />-->
