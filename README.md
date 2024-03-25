@@ -1,10 +1,4 @@
-<!--<img align="left" height="230px" align="right" src="rei-ayanami.png" alt="rei-ayanami avatar" />
-
-<div align="center">
-  <img src="violet.gif" height="270px" alt="violet gif" />
-</div>-->
-
-<h2>Hello, World! <!--<img height="30px" src="ferris.gif" alt="ferris gif" />--></h2>
+<h2>Hello, World!</h2>
 
 Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy & religion.
 
@@ -19,36 +13,12 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
   <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /><a>
 </div>
 
-<!--<img align="right" width="140px" src="dancing-gopher.gif" alt="gopher dancing" />-->
-
 <p></p>
-
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />-->
 
 - 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
 - 😄 Pronouns: `She/Her`
-<!--- ⚡ Fun fact: I learned to program to forget an ex-girlfriend I had when I was 15 years old.-->
-
-<!--<details>
-  <summary>Diagnosis</summary>
-  
-  <ul>
-    <li>
-      <b><a href="https://en.wikipedia.org/wiki/Cerebral_palsy">Cerebal Palsy spastic quadriplegia (CID G 80.0)</a></b>
-    </li>
-    <li>
-      <b><a href="https://en.wikipedia.org/wiki/Muscular_dystrophy">Muscular Distrophy (CID G 71.0)</a></b>
-    </li>
-    <li>
-      <b><a href="https://en.wikipedia.org/wiki/Bipolar_disorder">Bipolar Disorder (CID F 31)</a></b>
-    </li>
-    <li>
-      <b><a href="https://en.wikipedia.org/wiki/Autism_spectrum">Autism spectrum (CID 6A02.0)</a></b>
-    </li>
-  </ul>
-</details>-->
 
 <details>
   <summary>🛠️ My Projects</summary>
@@ -107,44 +77,3 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
     </li>
   </ul>
 </details>
-
-<!--
-<details>
-  <summary>See view complete my stack</summary>
-  
-  #### Frameworks
-  
-  <div align="left";>
-    <a href="https://laravel.com"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-    <a href="https://www.electronjs.org"><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" /></a>
-    <a href="https://tauri.app"><img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" /></a>
-    <a href="https://vuejs.org" target="_balnk"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></a>
-    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-    <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-  </div>
-  
-  #### Databases
-  
-  <div align="left";>
-    <a href='https://www.mongodb.com/en-us'><img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' /></a>
-    <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></a>
-    <a href="https://mysql.com"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-    <a href="https://postgresql.org"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-    <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
-  </div>
-  
-  #### Misc
-  
-  <div align="left";>
-    <a href='https://git-scm.com'><img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' /></a>
-    <a href="https://docker.com"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  </div>
-  
-  #### System's
-  
-  <div align="left";>
-    <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
-    <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-  </div>
-</details>
--->
