@@ -22,34 +22,13 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
 - 😄 Pronouns: `She/Her`
 
-<details>
-  <summary>🛠️ My Projects</summary>
-  
-  <ul>
-    <li>
-      <b><a href="https://github.com/Kremilly/linkscraper">Linkscraper</a></b>
-    </li>
-    <li>
-      <b><a href="https://github.com/kremilly/SciScrape">SciScrape</a></b>
-    </li>
-    <li>
-      <b><a href="https://github.com/AgiosLux/Paimon">Paimon</a></b>
-    </li>
-  </ul>
-</details>
+<h4>🛠️ My Projects</h4>
 
-<details>
-  <summary>🔄 Public API's</summary>
-  
-  <ul>
-    <li>
-      <b><a href="https://github.com/AgiosLux/pdfThumb">pdfThumb</a></b>
-    </li>
-    <li>
-      <b><a href="https://github.com/kremilly/ghPinnedAPI">ghPinnedAPI</a></b>
-    </li>
-  </ul>
-</details>
+<b><a href="https://github.com/Kremilly/linkscraper">Linkscraper</a></b> | <b><a href="https://github.com/kremilly/SciScrape">SciScrape</a></b> | <b><a href="https://github.com/AgiosLux/Paimon">Paimon</a></b>
+
+<h4>🔄 Public API's</h4>
+
+<b><a href="https://github.com/AgiosLux/pdfThumb">pdfThumb</a></b> | <b><a href="https://github.com/kremilly/ghPinnedAPI">ghPinnedAPI</a></b>
 
 <details>
   <summary>🌐 Links for community</summary>
