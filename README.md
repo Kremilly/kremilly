@@ -50,16 +50,6 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
 </details>
 
 <details>
-  <summary>🐘 PHP Packages</summary>
-  
-  <ul>
-    <li>
-      <b><a href="https://github.com/AgiosLux/phpRouter">phpRouter</a></b>
-    </li>
-  </ul>
-</details>
-
-<details>
   <summary>🌐 Links for community</summary>
   
   <ul>
