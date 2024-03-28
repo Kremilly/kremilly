@@ -30,9 +30,7 @@ List of everything I use daily
   - Astrovim
   - JetBrains RustRover
   - JetBrains PyCharm Community
-  - JetBrains ItelliJ Community
-  - JetBrains CLion
-  - JetBrains GoLand
+  - JetBrains IntelliJ Community
 
 <b>Tools</b>
 
