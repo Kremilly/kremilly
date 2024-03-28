@@ -15,7 +15,7 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
   <summary>🖥️ My Setup</summary>
   <p></p>
 
-  <b>PC:</b>
+  <b>PC</b>
 
   - CPU: AMD Ryzen 3 3200G
   - Motherboard: AsRock A320M
