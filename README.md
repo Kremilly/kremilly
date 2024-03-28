@@ -13,7 +13,7 @@ Hello, I'm *Kremilly*. I'm a 25-years-old from Brazil with a strong passion for 
 
 <p></p>
 
-> "The philosophy of free knowledge is the symphony of the human mind, where each note of information is a star guiding free thought through the vastness of the universe of knowledge, illuminating the paths of emancipation and true freedom."
+> *"The philosophy of free knowledge is the symphony of the human mind, where each note of information is a star guiding free thought through the vastness of the universe of knowledge, illuminating the paths of emancipation and true freedom."*
 
 <p></p>
 
