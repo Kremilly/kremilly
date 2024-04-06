@@ -65,27 +65,15 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
   </ul>
 </details>
 
-<details>
-  <summary>🎉 My social media links</summary>
-  
-  <ul>
-    <li>
-      <b><a href="https://kremilly.com">Website</a></b>
-    </li>
-    <li>
-      <b><a href="https://dev.to/kremilly">Dev.to</a></b>
-    </li>
-    <li>
-      <b><a href="https://leetcode.com/kremilly">Leetcode</a></b>
-    </li>
-    <li>
-      <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b>
-    </li>
-    <li>
-      <b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b>
-    </li>
-  </ul>
-</details>
+<div align="center">
+  <b><a href="https://kremilly.com">Website</a></b> | 
+  <b><a href="https://dev.to/kremilly">Dev.to</a></b> | 
+  <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> | 
+  <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> | 
+  <b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b>
+</div>
+
+<p></p>
 
 <div align="center";>
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
