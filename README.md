@@ -11,6 +11,7 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
 - 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
+- 🔬 My dream is to become a scientist
 - 😄 Pronouns: `She/Her`
 
 <details>
