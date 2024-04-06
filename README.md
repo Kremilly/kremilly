@@ -66,10 +66,10 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
 </details>
 
 <div align="center">
-  <b><a href="https://kremilly.com">Website</a></b> | 
-  <b><a href="https://dev.to/kremilly">Dev.to</a></b> | 
-  <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> | 
-  <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> | 
+  <b><a href="https://kremilly.com">Website</a></b> • 
+  <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
+  <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> • 
+  <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> • 
   <b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b>
 </div>
 
