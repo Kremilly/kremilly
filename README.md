@@ -4,6 +4,8 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
 
 > *"The philosophy of free knowledge is the symphony of the human mind, where each note of information is a star guiding free thought through the vastness of the universe of knowledge, illuminating the paths of emancipation and true freedom."*
 
+<img src="images/fepher.webp" align="right" height="96" />
+
 <p></p>
 
 - 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
