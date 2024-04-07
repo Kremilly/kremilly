@@ -71,7 +71,8 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
   <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> • 
   <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> • 
   <b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • 
-  <b><a href="https://github.com/KMYArchives">Kremilly Archives</a></b>
+  <b><a href="https://github.com/KMYArchives">Archives</a></b> •  
+  <b><a href="https://github.com/KMYStudy">Study</a></b>
 </div>
 
 <p></p>
