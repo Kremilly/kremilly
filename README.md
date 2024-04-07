@@ -19,13 +19,13 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
   
   <ul>
     <li>
-      <b><a href="https://github.com/Kremilly/linkscraper">Linkscraper</a></b>
+      <b><a href="https://github.com/kremilly/linkscraper">Linkscraper</a></b>
     </li>
     <li>
       <b><a href="https://github.com/kremilly/SciScrape">SciScrape</a></b>
     </li>
     <li>
-      <b><a href="https://github.com/AgiosLux/Paimon">Paimon</a></b>
+      <b><a href="https://github.com/kremilly/Paimon">Paimon</a></b>
     </li>
   </ul>
 </details>
@@ -35,7 +35,7 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
   
   <ul>
     <li>
-      <b><a href="https://github.com/AgiosLux/pdfThumb">pdfThumb</a></b>
+      <b><a href="https://github.com/kremilly/pdfThumb">pdfThumb</a></b>
     </li>
     <li>
       <b><a href="https://github.com/kremilly/ghPinnedAPI">ghPinnedAPI</a></b>
@@ -66,7 +66,8 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
 </details>
 
 <div align="center">
-  <b><a href="https://kremilly.com">Website</a></b> • 
+  <b><a href="https://kremilly.com">Kremilly Archives</a></b> • 
+  <b><a href="https://kremilly.com">Website</a></b> •
   <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
   <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> • 
   <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> • 
