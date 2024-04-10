@@ -12,7 +12,7 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied Systems Analysis and Development at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
-- 🔬 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
+- 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 😄 Pronouns: `She/Her`
 
 <details>
