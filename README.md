@@ -1,4 +1,4 @@
-Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about programming languages and subjects like science, psychology, philosophy & religion.
+Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for learning. I started my programming journey a decade ago with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). I'm deeply focused on learning about like science, psychology, philosophy & religion.
 
 <p></p>
 
