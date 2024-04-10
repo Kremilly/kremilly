@@ -2,7 +2,7 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
 
 <p></p>
 
-> *"Education is the passport to the future, for tomorrow belongs to those who can learn today." <div align='right'> - <b><a href='https://en.wikipedia.org/wiki/Albert_Einstein)'>Albert Einstein</a></b>
+> *"Education is the passport to the future, for tomorrow belongs to those who can learn today."* <div align='right'> - <b><a href='https://en.wikipedia.org/wiki/Albert_Einstein)'>Albert Einstein</a></b>
 
 <img src="images/fepher.webp" align="right" height="96" />
 
