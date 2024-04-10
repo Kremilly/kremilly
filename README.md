@@ -76,9 +76,9 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
   <b><a href="https://github.com/KMYStudy">Study</a></b>
 </div>
 
-<p></p>
+<!--<p></p>
 
-<div align="center";>
+<div align="center">
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
@@ -87,4 +87,4 @@ Hello, I'm *Kremilly*. I'm a 26-years-old from Brazil with a strong passion for 
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
   <a href="https://elixir-lang.org"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" /><a>
   <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /><a>
-</div>
+</div>-->
