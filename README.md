@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="images/kremilly.png" align="center" height="96" />
+</div>
+
+<p></p>
+
 Greetings, I'm *Kremilly*, a 26-year-old from Brazil, deeply passionate about learning. A decade ago, I embarked on my programming journey with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). Currently, my focus lies in exploring fields such as science, psychology, philosophy, and religion.
 
 <p></p>
