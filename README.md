@@ -19,7 +19,6 @@ Greetings, I'm *Kremilly*, a 26-year-old from Brazil, deeply passionate about le
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
-- 😄 Pronouns: `She/Her`
 
 <details>
   <summary>🛠️ My Projects</summary>
