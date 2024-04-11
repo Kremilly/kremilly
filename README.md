@@ -2,6 +2,16 @@
   <img src="images/kremilly.png" align="center" height="96" />
 </div>
 
+<div align="center">
+  <b><a href="https://kremilly.com">Website</a></b> •
+  <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
+  <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> • 
+  <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> • 
+  <b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • 
+  <b><a href="https://github.com/KMYArchives">Archives</a></b> •  
+  <b><a href="https://github.com/KMYStudy">Study</a></b>
+</div>
+
 <p></p>
 
 Greetings, I'm *Kremilly*, a 26-year-old from Brazil, deeply passionate about learning. A decade ago, I embarked on my programming journey with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)). Currently, my focus lies in exploring fields such as science, psychology, philosophy, and religion.
@@ -70,16 +80,6 @@ Greetings, I'm *Kremilly*, a 26-year-old from Brazil, deeply passionate about le
     </li>
   </ul>
 </details>
-
-<div align="center">
-  <b><a href="https://kremilly.com">Website</a></b> •
-  <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
-  <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> • 
-  <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> • 
-  <b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • 
-  <b><a href="https://github.com/KMYArchives">Archives</a></b> •  
-  <b><a href="https://github.com/KMYStudy">Study</a></b>
-</div>
 
 <!--<p></p>
 
