@@ -16,7 +16,7 @@ Greetings, I'm *Kremilly*, a 26-year-old from Brazil, deeply passionate about le
 
 - 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
-- 🏫 I studied [**Systems Analysis and Development**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
+- 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 😄 Pronouns: `She/Her`
