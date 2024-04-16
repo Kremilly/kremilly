@@ -22,7 +22,7 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
   <blockquote> 
     <i>"Education is the passport to the future, for tomorrow belongs to those who can learn today."</i> - 
     <b><a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a></b>
-    </blockquote>
+  </blockquote>
 </div>
 
 <img src="images/fepher.webp" align="right" height="96" />
@@ -86,7 +86,7 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
   </ul>
 </details>
 
-<!--<p></p>
+<p></p>
 
 <div align="center">
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
@@ -97,4 +97,4 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
   <a href="https://elixir-lang.org"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" /><a>
   <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /><a>
-</div>-->
+</div>
