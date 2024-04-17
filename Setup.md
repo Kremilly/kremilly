@@ -26,7 +26,7 @@ List of everything I use daily
 <b>IDEs</b>
 
   - Visual Studio Code
-  - Visuak Studio
+  - Visual Studio 2022
   - Astrovim
   - JetBrains RustRover
   - JetBrains PyCharm Community
