@@ -81,9 +81,6 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
     <li>
       <b><a href="https://dev.to/kremilly/how-to-added-pinned-repos-in-your-portfolio-or-website-3agg">How to add pinned repos in your portfolio or website? [Article]</a></b>
     </li>
-    <li>
-      <b><a href="https://github.com/kremilly/kremilly/blob/main/Setup.md">My Setup</a></b>
-    </li>
   </ul>
 </details>
 
