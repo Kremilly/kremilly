@@ -7,7 +7,7 @@
   <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
   <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> • 
   <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> • 
-  <b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • 
+  <!--<b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • -->
   <b><a href="https://github.com/kremilly/kremilly/blob/main/Setup.md">Setup</a></b> • 
   <b><a href="https://github.com/KMYArchives">Archives</a></b> • 
   <b><a href="https://github.com/KMYStudy">Study</a></b>
@@ -22,11 +22,13 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
 <div align="center">
   <blockquote> 
     <i>"Education is the passport to the future, for tomorrow belongs to those who can learn today."</i> - 
-    <b><a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a></b>
+    <b>
+      <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>
+    </b>
   </blockquote>
 </div>
 
-<img src="images/fepher.webp" align="right" height="96" />
+<img src="images/fepher.webp" height="96" align="right" />
 
 <p></p>
 
