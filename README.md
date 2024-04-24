@@ -26,9 +26,6 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
   </b>
 </blockquote>
 
-> [!note]
-> [**PDFThumb**](https://github.com/kremilly/pdfThumb) • [**GHPinnedAPI**](https://github.com/kremilly/GHPinnedAPI) • [**ApiWikipedia**](https://github.com/kremilly/ApiWikipedia)
-
 <img src="images/fepher.webp" height="96" align="right" />
 
 <p></p>
@@ -67,6 +64,9 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
     </li>
   </ul>
 </details>
+
+> [!note]
+> [**PDFThumb**](https://github.com/kremilly/pdfThumb) • [**GHPinnedAPI**](https://github.com/kremilly/GHPinnedAPI) • [**ApiWikipedia**](https://github.com/kremilly/ApiWikipedia)
 
 <p></p>
 
