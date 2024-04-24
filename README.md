@@ -65,7 +65,6 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
   </ul>
 </details>
 
-> [!note]
 > [**PDFThumb**](https://github.com/kremilly/pdfThumb) • [**GHPinnedAPI**](https://github.com/kremilly/GHPinnedAPI) • [**ApiWikipedia**](https://github.com/kremilly/ApiWikipedia)
 
 <p></p>
