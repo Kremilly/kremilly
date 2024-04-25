@@ -4,6 +4,7 @@
 
 <div align="center">
   <b><a href="https://kremilly.com">Website</a></b> •
+  <b><a href="https://api.kremilly.com">API's</a></b> • 
   <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
   <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> • 
   <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> • 
@@ -67,12 +68,6 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
     </li>
   </ul>
 </details>
-
-<div align="center">
-  <b><a href="https://github.com/kremilly/pdfThumb">PDFThumb</a></b> •
-  <b><a href="https://github.com/kremilly/GHPinnedAPI">GHPinnedAPI</a></b> • 
-  <b><a href="https://github.com/kremilly/ApiWikipedia">ApiWikipedia</a></b>
-</div>
 
 <p></p>
 
