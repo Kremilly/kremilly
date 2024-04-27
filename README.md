@@ -6,8 +6,6 @@
   <b><a href="https://kremilly.com">Website</a></b> •
   <b><a href="https://api.kremilly.com">API's</a></b> • 
   <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
-  <b><a href="https://leetcode.com/kremilly">Leetcode</a></b> • 
-  <b><a href="https://exercism.org/profiles/kremilly">Exercism.org</a></b> • 
   <!--<b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • -->
   <b><a href="https://github.com/kremilly/kremilly/blob/main/Setup.md">Setup</a></b> • 
   <b><a href="https://github.com/KMYArchives">Archives</a></b> • 
