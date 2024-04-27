@@ -1,15 +1,15 @@
-<div align="center">
-  <img src="images/kremilly.png" align="center" height="96" />
-</div>
+<div>
+  <img src="images/kremilly.png" align="center" height="96" align="left" />
 
-<div align="center">
-  <b><a href="https://kremilly.com">Website</a></b> •
-  <b><a href="https://api.kremilly.com">API's</a></b> • 
-  <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
-  <!--<b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • -->
-  <b><a href="https://github.com/kremilly/kremilly/blob/main/Setup.md">Setup</a></b> • 
-  <b><a href="https://github.com/KMYArchives">Archives</a></b> • 
-  <b><a href="https://github.com/KMYStudy">Study</a></b>
+  <div align="right">
+    <b><a href="https://kremilly.com">Website</a></b> •
+    <b><a href="https://api.kremilly.com">API's</a></b> • 
+    <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
+    <!--<b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • -->
+    <b><a href="https://github.com/kremilly/kremilly/blob/main/Setup.md">Setup</a></b> • 
+    <b><a href="https://github.com/KMYArchives">Archives</a></b> • 
+    <b><a href="https://github.com/KMYStudy">Study</a></b>
+  </div>
 </div>
 
 <p></p>
