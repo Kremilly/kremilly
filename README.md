@@ -6,7 +6,6 @@
   <b><a href="https://kremilly.com">Website</a></b> •
   <b><a href="https://api.kremilly.com">API's</a></b> • 
   <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
-  <!--<b><a href="https://bsky.app/profile/kremilly.bsky.social">Bluesky</a></b> • -->
   <b><a href="https://github.com/kremilly/kremilly/blob/main/Setup.md">Setup</a></b> • 
   <b><a href="https://github.com/KMYArchives">Archives</a></b> • 
   <b><a href="https://github.com/KMYStudy">Study</a></b>
@@ -25,7 +24,7 @@ Greetings, I'm ***Kremilly***, a 26-year-old from [**Brazil**](https://en.wikipe
   </b>
 </blockquote>
 
-<img src="images/fepher.webp" height="96" align="right" />
+<!--<img src="images/fepher.webp" height="96" align="right" />-->
 
 <p></p>
 
