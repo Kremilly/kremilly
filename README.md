@@ -54,19 +54,6 @@ Greetings, I'm *Kremilly*, a 26-year-old from [**Brazil**](https://en.wikipedia.
   </ul>
 </details>
 
-<details>
-  <summary>🌐 Links for community</summary>
-  
-  <ul>
-    <li>
-      <b><a href="https://github.com/kremilly/rust-vscode-extensions">Rust Essentials for VSCode</a></b>
-    </li>
-    <li>
-      <b><a href="https://dev.to/kremilly/how-to-added-pinned-repos-in-your-portfolio-or-website-3agg">How to add pinned repos in your portfolio or website? [Article]</a></b>
-    </li>
-  </ul>
-</details>
-
 <p></p>
 
 <div align="center">
