@@ -35,24 +35,13 @@ Greetings, I'm ***Kremilly***, a 26-year-old from [**Brazil**](https://en.wikipe
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 
-<details>
-  <summary>🛠️ My Projects</summary>
-  
-  <ul>
-    <li>
-      <b><a href="https://github.com/kremilly/Raven">Raven</a></b>
-    </li>
-    <li>
-      <b><a href="https://github.com/kremilly/Linkscraper">Linkscraper</a></b>
-    </li>
-    <li>
-      <b><a href="https://github.com/kremilly/SciScrape">SciScrape</a></b>
-    </li>
-    <li>
-      <b><a href="https://github.com/kremilly/Paimon">Paimon</a></b>
-    </li>
-  </ul>
-</details>
+<div align="left">
+  🛠️ My Projects:
+  <b><a href="https://github.com/kremilly/Raven">Raven</a></b> • 
+  <b><a href="https://github.com/kremilly/Linkscraper">Linkscraper</a></b> • 
+  <b><a href="https://github.com/kremilly/SciScrape">SciScrape</a></b> • 
+  <b><a href="https://github.com/kremilly/Paimon">Paimon</a></b>
+</div>
 
 <p></p>
 
