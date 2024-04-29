@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
   <img src="images/kremilly.png" align="center" height="96" align="left" />
-</div>
+</div>-->
 
 <div align="center">
   <b><a href="https://kremilly.com">Website</a></b> •
