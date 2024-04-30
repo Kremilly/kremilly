@@ -11,6 +11,12 @@
   <b><a href="https://github.com/KMYStudy">Study</a></b>
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p></p>
 
 Greetings, I'm ***Kremilly***, a 26-year-old from [**Brazil**](https://en.wikipedia.org/wiki/Brazil), deeply passionate about learning. A decade ago, I embarked on my programming journey with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)).
@@ -29,18 +35,11 @@ Greetings, I'm ***Kremilly***, a 26-year-old from [**Brazil**](https://en.wikipe
 <p></p>
 
 - 🌱 I’m currently learning [**Go**](https://go.dev) & [**Rust**](https://rust-lang.com)
-- ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
+- ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy) • [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My main linguages are [**Python**](https://python.org) & [**PHP**](https://php.net)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
-
-<div align="left">
-  🛠️ My Projects:
-  <b><a href="https://github.com/kremilly/Raven">Raven</a></b> • 
-  <b><a href="https://github.com/kremilly/Linkscraper">Linkscraper</a></b> • 
-  <b><a href="https://github.com/kremilly/SciScrape">SciScrape</a></b> • 
-  <b><a href="https://github.com/kremilly/Paimon">Paimon</a></b>
-</div>
+- 🛠️ My Projects [**Raven**](https://github.com/kremilly/Raven) • [**Linkscraper**](https://github.com/kremilly/Liknscraper) • [**SciScrape**](https://github.com/kremilly/SciScrape) • [**Raven**](https://github.com/Ravenlib/Raven)
 
 <p></p>
 
