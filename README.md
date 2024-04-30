@@ -39,7 +39,7 @@ Greetings, I'm ***Kremilly***, a 26-year-old from [**Brazil**](https://en.wikipe
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My *current* main language is [**Python**](https://python.org)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
-- 🛠️ My Projects [**Raven**](https://github.com/kremilly/Raven) • [**Linkscraper**](https://github.com/kremilly/Liknscraper) • [**SciScrape**](https://github.com/kremilly/SciScrape) • [**Raven**](https://github.com/Ravenlib/Raven)
+- 🛠️ My Projects [**Raven**](https://github.com/kremilly/Raven) • [**Linkscraper**](https://github.com/kremilly/Liknscraper) • [**SciScrape**](https://github.com/kremilly/SciScrape) • [**Paimon**](https://github.com/Ravenlib/Paimon)
 
 <p></p>
 
