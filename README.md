@@ -10,11 +10,11 @@
   <b><a href="https://github.com/KMYStudy">Study</a></b>
 </div>
 
-<picture align="center">
+<!--<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
 
 <p></p>
 
