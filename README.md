@@ -19,7 +19,7 @@
 
 <p></p>
 
-Greetings, I'm [***Kremilly***](https://kremilly.com), a 26-year-old from [**Brazil**](https://en.wikipedia.org/wiki/Brazil), deeply passionate about learning. A decade ago, I embarked on my programming journey with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)).
+Greetings, I'm ***Kremilly***, a 26-year-old from [**Brazil**](https://en.wikipedia.org/wiki/Brazil), deeply passionate about learning. A decade ago, I embarked on my programming journey with [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)).
 
 <p></p>
 
