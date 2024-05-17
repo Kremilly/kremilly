@@ -7,8 +7,8 @@
   <b><a href="https://api.kremilly.com">API's</a></b> • 
   <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
   <b><a href="https://github.com/kremilly/kremilly/wiki">Wiki</a></b> • 
-  <b><a href="https://github.com/KMYArchives">Archives</a></b> • 
-  <b><a href="https://github.com/KMYStudy">Study</a></b>
+  <!--<b><a href="https://github.com/KMYArchives">Archives</a></b> • 
+  <b><a href="https://github.com/KMYStudy">Study</a></b>-->
 </div>
 
 <!--<picture align="center">
