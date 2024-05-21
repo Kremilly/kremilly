@@ -37,6 +37,4 @@
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
   <a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
-  <!--<a href="https://elixir-lang.org"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" /><a>
-  <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /><a>-->
 </div>
