@@ -11,12 +11,6 @@
   <a href='https://github.com/sponsors/kremilly'><img src='https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA'/></a>
 </p>
 
-<!--<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake.svg">
-</picture>-->
-
 <p></p>
 
 <div align="center">
