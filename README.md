@@ -30,10 +30,8 @@
 <p></p>
 
 - 🌱 I’m ***currently*** learning [**Rust**](https://rust-lang.com)
-<!-- - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy) • [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology) -->
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***current*** main languages are [**Python**](https://python.org) & [**Rust**](https://rust-lang.com)
-<!-- - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer) -->
 - 🛠️ My ***current*** projects are [**Raven**](https://github.com/kremilly/Raven) • [**Linkscraper**](https://github.com/kremilly/Liknscraper) & [**Paimon**](https://github.com/Ravenlib/Paimon)
 
 <p></p>
