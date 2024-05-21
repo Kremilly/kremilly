@@ -25,7 +25,7 @@
 
 <p></p>
 
-<!--<blockquote> 
+<blockquote> 
   <i>"Education is the passport to the future, for tomorrow belongs to those who can learn today."</i> - 
   <b>
     <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>
