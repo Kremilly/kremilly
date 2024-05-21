@@ -5,11 +5,6 @@
 <p></p>
 
 <p align='center'>
-  <a href='https://github.com/KMYArchives'><img src='https://img.shields.io/badge/github-KMYArchives-%23121011.svg?style=for-the-badge&logo=github&logoColor=whiteAA'/></a>
-  <a href='https://github.com/KMYStudy'><img src='https://img.shields.io/badge/github-KMYStudy-%23121011.svg?style=for-the-badge&logo=github&logoColor=whiteAA'/></a>
-</p>
-
-<p align='center'>
   <a href='https://kremilly.com'><img src='https://img.shields.io/badge/Kremilly.com-000000?style=for-the-badge&logo=About.me&logoColor=white' /></a>
   <a href='https://api.kremilly.com'><img src='https://img.shields.io/badge/Kremilly-APIs-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
   <a href='https://github.com/kremilly/kremilly/wiki'><img src='https://img.shields.io/badge/Kremilly-Wiki-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
