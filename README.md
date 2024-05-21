@@ -2,14 +2,21 @@
   <img src="images/kremilly.png" align="center" height="84" align="left" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <b><a href="https://kremilly.com">Website</a></b> •
   <b><a href="https://api.kremilly.com">API's</a></b> • 
   <b><a href="https://dev.to/kremilly">Dev.to</a></b> • 
   <b><a href="https://github.com/kremilly/kremilly/wiki">Wiki</a></b> • 
   <b><a href="https://github.com/KMYArchives">Archives</a></b> • 
   <b><a href="https://github.com/KMYStudy">Study</a></b>
-</div>
+</div>-->
+
+<p align='center'>
+  <a href='https://kremilly.com'><img src='https://img.shields.io/badge/Kremilly.com-000000?style=for-the-badge&logo=About.me&logoColor=white' /></a>
+  <a href='https://api.kremilly.com'><img src='https://img.shields.io/badge/Kremilly-APIs-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
+  <a href='https://github.com/kremilly/kremilly/wiki'><img src='https://img.shields.io/badge/Kremilly-Wiki-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
+  <a href='https://github.com/sponsors/kremilly'><img src='https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA'/></a>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kremilly/kremilly/output/github-contribution-grid-snake-dark.svg">
