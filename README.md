@@ -25,7 +25,7 @@
 
 <p></p>
 
-<img src="images/fepher.webp" height="96" align="right" />
+<!--<img src="images/fepher.webp" height="96" align="right" />-->
 
 <p></p>
 
