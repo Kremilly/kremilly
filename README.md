@@ -41,7 +41,7 @@
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
 </div>-->
 
-<p>📝 Blog posts:</p>
+<p>📝 <b>Blog posts:</b></p>
 
 <!-- BLOG-POST-LIST:START -->
 - [How to add pinned repos in your portfolio or website?](https://dev.to/kremilly/how-to-added-pinned-repos-in-your-portfolio-or-website-3agg)
