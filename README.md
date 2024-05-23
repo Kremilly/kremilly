@@ -19,6 +19,10 @@
 
 <p></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kremilly&custom_title=Kremilly+Contributions+Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p></p>
+
 - 🌱 I’m ***currently*** learning [**Rust**](https://rust-lang.com)
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy) • [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
