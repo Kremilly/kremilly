@@ -2,14 +2,15 @@ name: Listar imagens SVG em site
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   listar_svg:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
 
       - name: Instalar Wget
         run: |
@@ -19,17 +20,19 @@ jobs:
       - name: Baixar conteúdo do site
         run: |
           wget -O content.html 'https://api.kremilly.com/devto?username=kremilly'
-          
+
       - name: Extrair URLs de imagens SVG
         run: |
           xmlstarlet sel -t -S -o '//img/@src' content.html > svg_urls.txt
 
       - name: Listar URLs de imagens SVG no README
         run: |
-          cat svg_urls.txt > README.md
+          cat svg_urls.txt >> README.md
 
       - name: Commitar e enviar as alterações
         run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Listar imagens SVG em site"
+          git commit -m "Listar imagens SVG no README"
           git push
