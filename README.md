@@ -46,4 +46,5 @@
 [**Dev.to posts**](https://dev.to/kremilly)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add pinned repos in your portfolio or website?](https://dev.to/kremilly/how-to-added-pinned-repos-in-your-portfolio-or-website-3agg)
 <!-- BLOG-POST-LIST:END -->
