@@ -45,4 +45,4 @@
 
 [**Dev.to posts**](https://dev.to/kremilly)
 
-[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kremilly)](https://dev.to/kremilly)
+[![Latest Dev.to](https://api.kremilly.com/devto?username=kremilly)](https://dev.to/kremilly)
