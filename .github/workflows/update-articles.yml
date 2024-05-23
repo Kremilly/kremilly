@@ -1,27 +1,19 @@
-name: Update README with Articles
-
+name: Latest blog post workflow
 on:
-  schedule:
-    - cron: '*/1 0 * * *'  # Runs at 00:15 every day
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  update_articles:
-    permissions: actions  # Limit permissions
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3  # Fetches code from repository
-      - name: Generate README  # Explains the purpose
-        uses: <your-preferred-article-listing-action>@<latest-version>  # Update action
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          username: 'kremilly'
-          template-file: 'README.md.template'
-          out-file: 'README.md'
-          limit: 5
-      - name: Commit changes  # Explains the purpose
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "Update articles"
-          git push origin main
+          feed_list: "https://dev.to/feed/kremilly"
