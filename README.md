@@ -40,3 +40,9 @@
   <a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
 </div>
+
+<p></p>
+
+# My posts
+
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kremily)](https://dev.to/kremilly)
