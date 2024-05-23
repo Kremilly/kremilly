@@ -1,2 +1,0 @@
-- name: Checkout code  # Fetches code from repository
-  uses: actions/checkout@v3
