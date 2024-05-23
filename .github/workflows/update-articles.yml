@@ -1,25 +1,27 @@
-name: "Cronjob"
+name: Update README with Articles
+
 on:
- schedule:
-  - cron: '15 0 * * *'
+  schedule:
+    - cron: '*/1 0 * * *'  # Runs at 00:15 every day
 
 jobs:
-    update-articles:
-        permissions: write-all
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v3
-            - name: Generate README
-              uses: huantt/article-listing@v1.1.0
-              with:
-                username: 'kremilly'                
-                template-file: 'README.md.template'
-                out-file: 'README.md'
-                limit: 5
-            - name: Commit
-              run: |
-                git config user.name github-actions
-                git config user.email github-actions@github.com
-                git add .
-                git commit -m "update articles"
-                git push origin main
+  update_articles:
+    permissions: actions  # Limit permissions
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3  # Fetches code from repository
+      - name: Generate README  # Explains the purpose
+        uses: <your-preferred-article-listing-action>@<latest-version>  # Update action
+        with:
+          username: 'kremilly'
+          template-file: 'README.md.template'
+          out-file: 'README.md'
+          limit: 5
+      - name: Commit changes  # Explains the purpose
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update articles"
+          git push origin main
