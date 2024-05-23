@@ -1,0 +1,35 @@
+name: Listar imagens SVG em site
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  listar_svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Instalar Wget
+        run: |
+          sudo apt-get update
+          sudo apt-get install wget
+
+      - name: Baixar conteúdo do site
+        run: |
+          wget -O content.html 'https://api.kremilly.com/devto?username=kremilly'
+          
+      - name: Extrair URLs de imagens SVG
+        run: |
+          xmlstarlet sel -t -S -o '//img/@src' content.html > svg_urls.txt
+
+      - name: Listar URLs de imagens SVG no README
+        run: |
+          cat svg_urls.txt > README.md
+
+      - name: Commitar e enviar as alterações
+        run: |
+          git add README.md
+          git commit -m "Listar imagens SVG em site"
+          git push
