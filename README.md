@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/kremilly.png" align="center" height="84" align="left" />
+  <img src="images/new-logo.png" align="center" height="64" align="left" />
 </div>
 
 <p></p>
