@@ -2,7 +2,7 @@
 
 <p align='right'>
   <a href='https://kremilly.com'><img src='https://img.shields.io/badge/Kremilly.com-0d1117?style=for-the-badge' /></a>
-  <a href='https://api.kremilly.com'><img src='https://img.shields.io/badge/APIs-0d1117?style=for-the-badge&label=kremilly&labelColor=0d1117'/></a>
+  <a href='https://api.kremilly.com'><img src='https://img.shields.io/badge/Api.Kremilly.com-0d1117?style=for-the-badge'/></a>
   <a href='https://github.com/sponsors/kremilly'><img src='https://img.shields.io/badge/sponsor-0d1117?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA'/></a>
 </p>
 
