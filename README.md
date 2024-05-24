@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="images/new-logo-white.png" align="center" height="64" align="left" />
-</div>
+<img src="images/new-logo-white.png" align="left" height="64" align="left" />
 
-<p></p>
-
-<p align='center'>
+<p align='right'>
   <a href='https://kremilly.com'><img src='https://img.shields.io/badge/Kremilly.com-000000?style=for-the-badge&logo=About.me&logoColor=white' /></a>
   <a href='https://api.kremilly.com'><img src='https://img.shields.io/badge/Kremilly-APIs-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
   <a href='https://github.com/kremilly/kremilly/wiki'><img src='https://img.shields.io/badge/Kremilly-Wiki-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
