@@ -3,7 +3,7 @@
 <p align='right'>
   <a href='https://kremilly.com'><img src='https://img.shields.io/badge/.com-252836?style=for-the-badge&label=kremilly&labelColor=323543' /></a>
   <a href='https://api.kremilly.com'><img src='https://img.shields.io/badge/APIs-252836?style=for-the-badge&label=kremilly&labelColor=323543'/></a>
-  <a href='https://github.com/sponsors/kremilly'><img src='https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA'/></a>
+  <a href='https://github.com/sponsors/kremilly'><img src='https://img.shields.io/badge/sponsor-252836?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA'/></a>
 </p>
 
 <p></p>
