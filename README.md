@@ -3,7 +3,6 @@
 <p align='right'>
   <a href='https://kremilly.com'><img src='https://img.shields.io/badge/Kremilly.com-000000?style=for-the-badge&logo=About.me&logoColor=white' /></a>
   <a href='https://api.kremilly.com'><img src='https://img.shields.io/badge/Kremilly-APIs-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
-  <a href='https://github.com/kremilly/kremilly/wiki'><img src='https://img.shields.io/badge/Kremilly-Wiki-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
   <a href='https://github.com/sponsors/kremilly'><img src='https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA'/></a>
 </p>
 
