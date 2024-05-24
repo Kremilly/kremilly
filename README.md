@@ -9,7 +9,7 @@
 <p></p>
 
 <div align="center">
-  Hi, I'm <b><i>Kremilly</i></b>, a 26-year-old from <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a> with a passion for learning. I started programming with <b><a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)">VB.Net</a></b> ten years ago.
+  Hi, I'm <b>Kremilly</b>, a 26-year-old from <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a> with a passion for learning. I started programming with <b><a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)">VB.Net</a></b> ten years ago.
 </div>
 
 <p></p>
