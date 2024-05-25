@@ -8,7 +8,7 @@
 
 <p></p>
 
-<div align="center">
+<div align="left" style="margin-left: 60px;">
   Hi, I'm <b>Kremilly</b>, a 26-year-old from <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a> with a passion for learning.
 </div>
 
@@ -17,8 +17,6 @@
 <!--[![Kremilly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kremilly&custom_title=Kremilly+Contributions+Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kremilly&exclude_repo=website&hide=css,scss,nushell,nu,makefile,vim+script,powershell,html,lua&langs_count=20&layout=compact&theme=dracula&hide_border=true" align="right" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kremilly&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
 <p></p>
 
@@ -30,7 +28,7 @@
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 🛠️ My ***main current*** project is [**Paimon**](https://github.com/Ravenlib/Paimon)
 
-<div align="center">
+<div align="left">
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
