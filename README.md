@@ -18,11 +18,13 @@
 
 <p></p>
 
+🎲 Random facts:
+
 - 🌱 I’m ***currently*** learning [**Rust**](https://rust-lang.com)
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy) • [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***current*** main languages are [**Python**](https://python.org) & [**Rust**](https://rust-lang.com)
-- 🕰️ My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (11 years ago)
+- 🕰️ My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (***11 years ago***)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 🛠️ My ***main current*** project is [**Paimon**](https://github.com/Ravenlib/Paimon)
 
