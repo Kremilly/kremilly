@@ -8,15 +8,13 @@
 
 <p></p>
 
-<div align="left" style="margin-left: 60px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kremilly&exclude_repo=website&hide=css,scss,nushell,nu,makefile,vim+script,powershell,html,lua&langs_count=20&layout=compact&theme=dracula&hide_border=true" align="right" />
+
+<div align="left">
   Hi, I'm <b>Kremilly</b>, a 26-year-old from <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a> with a passion for learning.
 </div>
 
-<p></p>
-
 <!--[![Kremilly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kremilly&custom_title=Kremilly+Contributions+Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kremilly&exclude_repo=website&hide=css,scss,nushell,nu,makefile,vim+script,powershell,html,lua&langs_count=20&layout=compact&theme=dracula&hide_border=true" align="right" />
 
 <p></p>
 
@@ -24,7 +22,7 @@
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy) • [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***current*** main languages are [**Python**](https://python.org) & [**Rust**](https://rust-lang.com)
-- 🕰️ My first language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (11 years ago)
+- 🕰️ My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (11 years ago)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 🛠️ My ***main current*** project is [**Paimon**](https://github.com/Ravenlib/Paimon)
 
