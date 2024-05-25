@@ -9,7 +9,7 @@
 <p></p>
 
 <div align="center">
-  Hi, I'm <b>Kremilly</b>, a 26-year-old from <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a> with a passion for learning. I started programming with <b><a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)">VB.Net</a></b> ten years ago.
+  Hi, I'm <b>Kremilly</b>, a 26-year-old from <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a> with a passion for learning.
 </div>
 
 <p></p>
@@ -26,6 +26,7 @@
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy) • [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***current*** main languages are [**Python**](https://python.org) & [**Rust**](https://rust-lang.com)
+- 🕰️ My first language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (11 years ago)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 🛠️ My ***main current*** project is [**Paimon**](https://github.com/Ravenlib/Paimon)
 
