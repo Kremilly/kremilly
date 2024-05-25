@@ -16,7 +16,7 @@
 
 <!--[![Kremilly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kremilly&custom_title=Kremilly+Contributions+Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kremilly&exclude_repo=website&hide=css,scss,nushell,nu,makefile,vim+script,powershell,html&langs_count=20&layout=compact&theme=github_dark&hide_border=true&hide_progress=true" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kremilly&exclude_repo=website&hide=css,scss,nushell,nu,makefile,vim+script,powershell,html,lua&langs_count=20&layout=compact&theme=github_dark&hide_border=true" align="right" />
 
 <p></p>
 
