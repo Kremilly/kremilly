@@ -26,6 +26,8 @@
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 🛠️ My ***main current*** project is [**Paimon**](https://github.com/Ravenlib/Paimon)
 
+<img src="https://github-readme-stats.vercel.app/api?username=kremilly&show_icons=true&theme=dracula&hide_border=true" height="156" align="right" />
+
 <div align="left">
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
   <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>-->
