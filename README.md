@@ -14,8 +14,6 @@
   Hi, I'm <b>Kremilly</b>, a 26-year-old from <b><a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></b> with a passion for learning.
 </div>
 
-<!--[![Kremilly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kremilly&custom_title=Kremilly+Contributions+Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
 <p></p>
 
 - 🌱 I’m ***currently*** learning [**Rust**](https://rust-lang.com)
@@ -30,7 +28,7 @@
 
 <div align="left">
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
-  <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>-->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
   <a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /></a>
