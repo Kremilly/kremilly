@@ -10,8 +10,6 @@
 
 <p></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kremilly&exclude_repo=website&hide=css,scss,nushell,nu,makefile,vim+script,powershell,html,lua&langs_count=20&layout=compact&theme=dracula&hide_border=true" align="right" />
-
 <div align="left">
   Hi, I'm <b>Kremilly</b>, a 26-year-old from <b><a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></b> with a passion for learning.
 </div>
