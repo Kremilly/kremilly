@@ -1,6 +1,6 @@
-<img src="images/new-logo-apis.png" height="64" align='left' />
+<img src="images/new-logo-apis.png" height="100" align='left' />
 
-<p align='right'>
+<p align='left'>
   <a href='https://kremilly.com'><img src='https://img.shields.io/badge/Kremilly.com-252525?style=for-the-badge' /></a>
   <a href='https://github.com/sponsors/kremilly'><img src='https://img.shields.io/badge/sponsor-252525?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA'/></a>
 </p>
