@@ -1,4 +1,4 @@
-<img src="images/new-logo-apis.png" height="100" align='left' />
+<img src="images/new-logo-apis.png" height="80" align='left' />
 
 <p align='left'>
   <a href='https://kremilly.com'><img src='https://img.shields.io/badge/Kremilly.com-252525?style=for-the-badge' /></a>
