@@ -37,5 +37,5 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add pinned repos in your portfolio or website?](https://kremilly.com/blog/github)
+- [How to add pinned repos in your portfolio or website?](https://kremilly.com/blog/how-to-add-pinned-repos-in-your-portfolio-or-website)
 <!-- BLOG-POST-LIST:END -->
