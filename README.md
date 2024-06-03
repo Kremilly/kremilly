@@ -37,6 +37,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Porque usar Rust?](https://kremilly.com/blog/porque-usar-rust)
 - [Sejam muito bem-vindos ao meu novo blog!](https://kremilly.com/blog/hello-world)
 - [How to add pinned repos in your portfolio or website?](https://kremilly.com/blog/how-to-add-pinned-repos-in-your-portfolio-or-website)
 <!-- BLOG-POST-LIST:END -->
