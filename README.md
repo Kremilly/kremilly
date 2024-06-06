@@ -19,7 +19,7 @@
 - 💡 My ***current*** main languages are [**Python**](https://python.org) & [**Rust**](https://rust-lang.com)
 - 🕰️ My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) (***11 years ago***)
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
-- 🛠️ My ***main current*** project is [**Scibun**](https://github.com/Scibun/Scibun)
+- 🛠️ My ***main current*** project is [**Scimon**](https://github.com/Scibun/Scimon)
 
 <!--<div align="left">
   <a href="https://php.net"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
