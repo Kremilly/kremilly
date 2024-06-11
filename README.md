@@ -1,10 +1,10 @@
 <div align="center">
-  <a href='https://kremilly.com'><img src="images/new-logo-name.png" /></a>
+  <a href='https://kremilly.com'><img src="images/new-logo-name.png" height="56" /></a>
 </div>
 
 <p></p>
 
-<div align="left">
+<div align="center">
   Hi, I'm <b><i>Kremilly<i></b>, a 26-year-old from <b><a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></b> with a passion for learning.
 </div>
 
