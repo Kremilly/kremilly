@@ -30,7 +30,7 @@
 <p></p>
 
 <p>
-  📝 <b>Blog posts:</b>
+  📝 <b><a href="https://kremilly.com">Blog posts</a>:</b>
 </p>
 
 <!-- BLOG-POST-LIST:START -->
