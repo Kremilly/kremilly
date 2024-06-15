@@ -43,4 +43,8 @@
   🧩 <b><a href="https://kremilly.com/#apis">API's</a>:</b>
 </p>
 
-<!-- APIS-LIST:START --><details><summary>My Apis</summary><a href='https://kremilly.com/docs/cve'>cve</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/devto'>devto</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/github'>github</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/pdfinfo'>pdfinfo</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/pdfscrape'>pdfscrape</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/pdfthumb'>pdfthumb</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/qrcode'>qrcode</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/scihub'>scihub</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/statslangs'>statslangs</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/wikipedia'>wikipedia</a><br/></details><!-- APIS-LIST:END -->
+<details>
+  <summary>My Apis</summary>
+  <!-- APIS-LIST:START -->
+  <!-- APIS-LIST:END -->
+</details>
