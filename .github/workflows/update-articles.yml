@@ -13,7 +13,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://kremilly.com/rss"
+      - name: Pull in api.kremilly.com apis
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "APIS-LIST"
+          commit_message: "Updated apis"
+          feed_list: "https://api.kremilly.com/rss"
