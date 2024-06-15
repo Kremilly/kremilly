@@ -49,4 +49,9 @@
 - [github](https://kremilly.com/docs/github)
 - [pdfinfo](https://kremilly.com/docs/pdfinfo)
 - [pdfscrape](https://kremilly.com/docs/pdfscrape)
+- [pdfthumb](https://kremilly.com/docs/pdfthumb)
+- [qrcode](https://kremilly.com/docs/qrcode)
+- [scihub](https://kremilly.com/docs/scihub)
+- [statslangs](https://kremilly.com/docs/statslangs)
+- [wikipedia](https://kremilly.com/docs/wikipedia)
 <!-- APIS-LIST:END -->
