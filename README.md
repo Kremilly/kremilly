@@ -44,4 +44,9 @@
 </p>
 
 <!-- APIS-LIST:START -->
+- [cve](https://kremilly.com/docs/cve)
+- [devto](https://kremilly.com/docs/devto)
+- [github](https://kremilly.com/docs/github)
+- [pdfinfo](https://kremilly.com/docs/pdfinfo)
+- [pdfscrape](https://kremilly.com/docs/pdfscrape)
 <!-- APIS-LIST:END -->
