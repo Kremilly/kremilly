@@ -43,15 +43,4 @@
   🧩 <b><a href="https://kremilly.com/#apis">API's</a>:</b>
 </p>
 
-<!-- APIS-LIST:START -->
-- [cve](https://kremilly.com/docs/cve)
-- [devto](https://kremilly.com/docs/devto)
-- [github](https://kremilly.com/docs/github)
-- [pdfinfo](https://kremilly.com/docs/pdfinfo)
-- [pdfscrape](https://kremilly.com/docs/pdfscrape)
-- [pdfthumb](https://kremilly.com/docs/pdfthumb)
-- [qrcode](https://kremilly.com/docs/qrcode)
-- [scihub](https://kremilly.com/docs/scihub)
-- [statslangs](https://kremilly.com/docs/statslangs)
-- [wikipedia](https://kremilly.com/docs/wikipedia)
-<!-- APIS-LIST:END -->
+<!-- APIS-LIST:START --><details><summary>My Apis</summary><a href='https://kremilly.com/docs/cve'>cve</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/devto'>devto</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/github'>github</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/pdfinfo'>pdfinfo</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/pdfscrape'>pdfscrape</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/pdfthumb'>pdfthumb</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/qrcode'>qrcode</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/scihub'>scihub</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/statslangs'>statslangs</a><br/></details><details><summary>My Apis</summary><a href='https://kremilly.com/docs/wikipedia'>wikipedia</a><br/></details><!-- APIS-LIST:END -->
