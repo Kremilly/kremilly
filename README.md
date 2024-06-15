@@ -46,6 +46,6 @@
 <details>
   <summary>My Apis</summary>
   <ul>
-    <!-- APIS-LIST:START --><a href='https://kremilly.com/docs/cve'>cve</a><br><a href='https://kremilly.com/docs/devto'>devto</a><br><a href='https://kremilly.com/docs/github'>github</a><br><a href='https://kremilly.com/docs/pdfinfo'>pdfinfo</a><br><a href='https://kremilly.com/docs/pdfscrape'>pdfscrape</a><br><a href='https://kremilly.com/docs/pdfthumb'>pdfthumb</a><br><a href='https://kremilly.com/docs/qrcode'>qrcode</a><br><a href='https://kremilly.com/docs/scihub'>scihub</a><br><a href='https://kremilly.com/docs/statslangs'>statslangs</a><br><a href='https://kremilly.com/docs/wikipedia'>wikipedia</a><br><!-- APIS-LIST:END -->
+    <!-- APIS-LIST:START --><li><a href='https://kremilly.com/docs/cve'>cve</a><br></li><li><a href='https://kremilly.com/docs/devto'>devto</a><br></li><li><a href='https://kremilly.com/docs/github'>github</a><br></li><li><a href='https://kremilly.com/docs/pdfinfo'>pdfinfo</a><br></li><li><a href='https://kremilly.com/docs/pdfscrape'>pdfscrape</a><br></li><li><a href='https://kremilly.com/docs/pdfthumb'>pdfthumb</a><br></li><li><a href='https://kremilly.com/docs/qrcode'>qrcode</a><br></li><li><a href='https://kremilly.com/docs/scihub'>scihub</a><br></li><li><a href='https://kremilly.com/docs/statslangs'>statslangs</a><br></li><li><a href='https://kremilly.com/docs/wikipedia'>wikipedia</a><br></li><!-- APIS-LIST:END -->
   </ul>
 </details>
