@@ -40,5 +40,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p>
-  🧩 <b><a href="https://kremilly.com/#apis">See here my public API's</a></b>
+  🧩 <b><a href="https://kremilly.com/#apis">API's</a>:</b>
 </p>
+
+<!-- APIS-LIST:START -->
+<!-- APIS-LIST:END -->
