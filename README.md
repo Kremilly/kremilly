@@ -39,12 +39,10 @@
 - [How to add pinned repos in your portfolio or website?](https://kremilly.com/blog/how-to-add-pinned-repos-in-your-portfolio-or-website)
 <!-- BLOG-POST-LIST:END -->
 
-<p>
-  🧩 <b><a href="https://kremilly.com/#apis">Visit my API's</a>:</b>
-</p>
-
 <details>
-  <summary>My Apis</summary>
+  <summary>
+    🧩 My Free Api's (<b><a href="https://kremilly.com/#apis">kremilly.com</a>)</b>
+  </summary>
   <ul>
     <!-- APIS-LIST:START --><li><a href='https://kremilly.com/docs/cve'>cve</a><br></li><li><a href='https://kremilly.com/docs/devto'>devto</a><br></li><li><a href='https://kremilly.com/docs/github'>github</a><br></li><li><a href='https://kremilly.com/docs/pdfinfo'>pdfinfo</a><br></li><li><a href='https://kremilly.com/docs/pdfscrape'>pdfscrape</a><br></li><li><a href='https://kremilly.com/docs/pdfthumb'>pdfthumb</a><br></li><li><a href='https://kremilly.com/docs/qrcode'>qrcode</a><br></li><li><a href='https://kremilly.com/docs/scihub'>scihub</a><br></li><li><a href='https://kremilly.com/docs/statslangs'>statslangs</a><br></li><li><a href='https://kremilly.com/docs/wikipedia'>wikipedia</a><br></li><!-- APIS-LIST:END -->
   </ul>
