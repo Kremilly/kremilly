@@ -5,7 +5,7 @@
 <p></p>
 
 <div align="center">
-  Hi, I'm <b><i>Kremilly<i></b>, a 26-year-old from <b><a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></b> with a passion for learning.
+  Hi, I'm <b><i>Kremilly<i></b>, a 26-years-old from <b><a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></b> with a passion for learning.
 </div>
 
 <p></p>
