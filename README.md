@@ -29,9 +29,14 @@
 
 <p></p>
 
-<p>
-  📝 Blog posts <b>(<a href="https://kremilly.com">kremilly.com</a>)</b>
-</p>
+<details>
+  <summary>
+    📝 Blog posts <b>(<a href="https://kremilly.com">kremilly.com</a>)</b>
+  </summary>
+  <ul>
+    <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+  </ul>
+</details>
 
 <!-- BLOG-POST-LIST:START -->
 - [Porque usar Rust?](https://kremilly.com/blog/porque-usar-rust)
