@@ -1,6 +1,6 @@
-<!--<div align="center">
+<div align="center">
   <a href='https://kremilly.com'><img src="images/new-logo-name.png" height="56" /></a>
-</div>-->
+</div>
 
 <p></p>
 
