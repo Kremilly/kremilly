@@ -4,13 +4,8 @@
 
 <p></p>
 
-<div align="center">
-  Hi, I'm <b><i>Kremilly<i></b>, from <b>Brazil</b> with a passion for learning and science. =)
-</div>
-
-<p></p>
-
 - 🎉 I'm ***26 years old***
+- 🌎 I'm from [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
 - 🌱 I’m ***currently*** learning [**Rust**](https://rust-lang.com) & [**Compilers**](https://en.wikipedia.org/wiki/Compiler)
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy) • [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) • [**Neuroscience**](https://en.wikipedia.org/wiki/Neuroscience) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
