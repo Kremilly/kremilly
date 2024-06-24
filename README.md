@@ -27,7 +27,7 @@
 
 <details>
   <summary>
-    📝 Blog posts</b>
+    📝 <b><a href='https://kremilly.com' target='_blank'>Blog posts</a></b>
   </summary>
   <ul>
     <!-- BLOG-POST-LIST:START --><li><a href='https://kremilly.com/blog/porque-usar-rust'>Porque usar Rust?</a><br></li><li><a href='https://kremilly.com/blog/hello-world'>Sejam muito bem-vindos ao meu novo blog!</a><br></li><li><a href='https://kremilly.com/blog/how-to-add-pinned-repos-in-your-portfolio-or-website'>How to add pinned repos in your portfolio or website?</a><br></li><!-- BLOG-POST-LIST:END -->
@@ -36,7 +36,7 @@
 
 <details>
   <summary>
-    🧩 My Free Api's</b>
+    🧩 <b><a href='https://kremilly.com/#apis' target='_blank'>My Free Api's</a></b>
   </summary>
   <ul>
     <!-- APIS-LIST:START --><li><a href='https://kremilly.com/docs/cve'>cve</a><br></li><li><a href='https://kremilly.com/docs/devto'>devto</a><br></li><li><a href='https://kremilly.com/docs/github'>github</a><br></li><li><a href='https://kremilly.com/docs/pdfinfo'>pdfinfo</a><br></li><li><a href='https://kremilly.com/docs/pdfscrape'>pdfscrape</a><br></li><li><a href='https://kremilly.com/docs/pdfthumb'>pdfthumb</a><br></li><li><a href='https://kremilly.com/docs/qrcode'>qrcode</a><br></li><li><a href='https://kremilly.com/docs/statslangs'>statslangs</a><br></li><li><a href='https://kremilly.com/docs/wikipedia'>wikipedia</a><br></li><!-- APIS-LIST:END -->
