@@ -22,9 +22,9 @@ jobs:
       - name: Pull in api.kremilly.com apis
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "APIS-LIST"
-          commit_message: "Updated apis"
+          comment_tag_name: "DOCS-LIST"
+          commit_message: "Updated docs"
           disable_sort: true
           max_post_count: 1000
-          feed_list: "https://api.kremilly.com/rss"
+          feed_list: "https://kremilly.com/rss/docs"
           template: "<li><a href='$url'>$title</a><br></li>"
