@@ -27,4 +27,4 @@ jobs:
           disable_sort: true
           max_post_count: 1000
           feed_list: "https://kremilly.com/rss/docs"
-          template: "<li><a href='$url'>$title ($categories)</a><br></li>"
+          template: "<li><a href='$url'>$title</a><br></li>"
