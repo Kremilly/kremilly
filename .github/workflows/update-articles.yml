@@ -26,5 +26,6 @@ jobs:
           commit_message: "Updated docs"
           disable_sort: true
           max_post_count: 1000
+          categories_template: true
           feed_list: "https://kremilly.com/rss/docs"
           template: "<li><a href='$url'>$title ($category)</a><br></li>"
