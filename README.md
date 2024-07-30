@@ -17,6 +17,8 @@
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 🛠️ My ***main current*** project is [**Scimon**](https://github.com/Scibun/Scimon)
 
+> Farei commits de todas as minhas notas técnicas de de Ciência da Computação. [**Clique aqui**](https://github.com/Kremilly/CSNotes) e veja o repositório de notas.
+
 <!--<div align="left">
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
