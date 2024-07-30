@@ -9,7 +9,7 @@
 - 🎉 I'm ***26 years old***
 - 🌎 I'm from [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
 - 🧑‍💼 I'm ***currently*** working with [**Data Science**](https://en.wikipedia.org/wiki/Data_science)
-- 🌱 I’m ***currently*** learning about [**Computer Science](https://github.com/Kremilly/CSNotes) (self-taught)
+- 🌱 I’m ***currently*** learning about [**Computer Science**](https://github.com/Kremilly/CSNotes) (self-taught)
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy), [**Neuroscience**](https://en.wikipedia.org/wiki/Neuroscience) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***currently*** main languages are [**Python**](https://python.org) & [**Rust**](https://rust-lang.com)
