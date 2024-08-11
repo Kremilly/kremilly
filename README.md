@@ -17,6 +17,7 @@
 - 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)
 - 🛠️ My ***main current*** project is [**Scimon**](https://github.com/Scibun/Scimon)
 
+> [!note]
 > Farei commits de todas as minhas notas técnicas de de Ciência da Computação. [**Clique aqui**](https://github.com/Kremilly/CSNotes) e veja o repositório de notas.
 
 <!--<div align="left">
