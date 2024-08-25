@@ -19,7 +19,7 @@
 
 <p></p>
 
-  ![My Skills](https://skillicons.dev/icons?i=rust,javascript,python,cs,php,go,zig)
+  ![My Skills](https://skillicons.dev/icons?i=rust,javascript,python,cs,php,go,zig,powerhsell,lua)
 
 <p></p>
 
