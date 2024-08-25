@@ -19,7 +19,9 @@
 
 <p></p>
 
-  ![My Skills](https://skillicons.dev/icons?i=rust,javascript,python,cs,php,go,zig,powershell,clojure,lua)
+<div align='center'>
+  <img src='https://skillicons.dev/icons?i=rust,javascript,python,cs,php,go,zig,powershell,clojure,lua' />
+</div>
 
 <p></p>
 
