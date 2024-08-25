@@ -12,7 +12,7 @@
 - 🌎 I'm from [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
 - 🧑‍💼 I'm ***currently*** working with [**Data Science**](https://en.wikipedia.org/wiki/Data_science)
 - 🌱 I’m ***currently*** learning about [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (self-taught)
-- ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy), [**Neuroscience**](https://en.wikipedia.org/wiki/Neuroscience) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
+- ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***currently*** main languages are [**Python**](https://python.org) & [**Rust**](https://rust-lang.com)
 - 🕰️ My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) in ***2013***
