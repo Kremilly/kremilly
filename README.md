@@ -19,7 +19,7 @@
 
 <p></p>
 
-  [![My Skills](https://skillicons.dev/icons?i=rust,javascript,electron,tauri,python,flask,selenium,cs,php,sqlite,mysql,git,windows,linux)]
+  ![My Skills](https://skillicons.dev/icons?i=rust,javascript,electron,tauri,python,flask,selenium,cs,php,sqlite,mysql,git,windows,linux)
 
 <!--<div align="left">
   <a href="https://rust-lang.com"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /><a>
