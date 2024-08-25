@@ -4,7 +4,7 @@
 
 <p></p>
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&hide=css,html&theme=dracula&langs_count=12&layout=compact&hide_progress=true&hide_border=true&count_private=true' />
+<!--<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&hide=css,html&theme=dracula&langs_count=12&layout=compact&hide_progress=true&hide_border=true&count_private=true' />-->
 
 - 🎉 I'm ***26 years old***
 - 🌎 I'm from [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
@@ -19,7 +19,7 @@
 
 <p></p>
 
-  ![My Skills](https://skillicons.dev/icons?i=rust,javascript,python,cs,php,go,zig,powershell,lua)
+  ![My Skills](https://skillicons.dev/icons?i=rust,javascript,python,cs,php,go,zig,powershell,clojure,lua)
 
 <p></p>
 
