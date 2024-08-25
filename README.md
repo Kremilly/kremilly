@@ -39,7 +39,7 @@
 
 <details>
   <summary>
-    📚 <b>Documentation's</b>
+    📚 <b><a href='https://kremilly.com/docs' target='_blank'>Documentation's</a></b>
   </summary>
   <ul>
     <!-- DOCS-LIST:START --><li><a href='https://kremilly.com/docs/cve'>CVE</a><br></li><li><a href='https://kremilly.com/docs/devto'>Devto</a><br></li><li><a href='https://kremilly.com/docs/github'>GitHub</a><br></li><li><a href='https://kremilly.com/docs/hiddenbytes'>HiddenBytes</a><br></li><li><a href='https://kremilly.com/docs/ipinfo'>IPInfo</a><br></li><li><a href='https://kremilly.com/docs/minix'>Minix</a><br></li><li><a href='https://kremilly.com/docs/pageshot'>PageShot</a><br></li><li><a href='https://kremilly.com/docs/passguard'>PassGuard</a><br></li><li><a href='https://kremilly.com/docs/pdfinfo'>PDFInfo</a><br></li><li><a href='https://kremilly.com/docs/pdfscrape'>PDFScrape</a><br></li><li><a href='https://kremilly.com/docs/pdfthumb'>PDFThumb</a><br></li><li><a href='https://kremilly.com/docs/qrcode'>QRCode</a><br></li><li><a href='https://kremilly.com/docs/statslangs'>Statslangs</a><br></li><li><a href='https://kremilly.com/docs/wikipedia'>Wikipedia</a><br></li><!-- DOCS-LIST:END -->
