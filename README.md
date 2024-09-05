@@ -15,7 +15,6 @@
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***currently*** main languages are [**Python**](https://python.org) & [**Rust**](https://rust-lang.com)
 - 🕰️ My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) in ***2013***
-<!--- 🚀 My dream is to become a [**Astronomer**](https://en.wikipedia.org/wiki/Astronomer)-->
 - 🛠️ My ***main current*** project is [**Scimon**](https://github.com/Scibun/Scimon)
 
 <p></p>
