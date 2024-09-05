@@ -13,13 +13,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in blog posts
+      - name: Pull in kremilly.com
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 1000
           feed_list: "https://kremilly.com/rss"
           template: "<li><a href='$url'>$title</a><br></li>"
-      - name: Pull in api.kremilly.com apis
+      - name: Pull in api.kremilly.com
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "DOCS-LIST"
