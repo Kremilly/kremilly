@@ -4,6 +4,12 @@
   </a>
 </div>
 
+<p align='center'>
+  <a href='https://kremilly.com'>Home</a> | 
+  <a href='https://kremilly.com/docs'>Documentation's</a> | 
+  <a href='https://kremilly.com/links'>Links</a>
+</p>
+
 <p></p>
 
 <!--<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&hide=css,html&theme=dracula&langs_count=12&layout=compact&hide_progress=true&hide_border=true&count_private=true' />-->
