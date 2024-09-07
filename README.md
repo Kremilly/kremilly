@@ -32,7 +32,7 @@
 
 <details>
   <summary>
-    📝 <b><a href='https://kremilly.com'>Blog posts</a></b>
+    📝 <b>Blog posts</b>
   </summary>
   <ul>
     <!-- BLOG-POST-LIST:START --><li><a href='https://kremilly.com/blog/compiladores'>O que é um Compilador?</a><br></li><li><a href='https://kremilly.com/blog/nao-use-pollyfill'>Não use Polyfill.js!</a><br></li><li><a href='https://kremilly.com/blog/porque-usar-rust'>Porque usar Rust?</a><br></li><li><a href='https://kremilly.com/blog/hello-world'>Sejam muito bem-vindos ao meu novo blog!</a><br></li><!-- BLOG-POST-LIST:END -->
@@ -41,7 +41,7 @@
 
 <details>
   <summary>
-    📚 <b><a href='https://kremilly.com/docs'>Documentation's</a></b>
+    📚 <b>Documentation's</b>
   </summary>
   <ul>
     <!-- DOCS-LIST:START --><li><a href='https://kremilly.com/docs/cve'>CVE</a><br></li><li><a href='https://kremilly.com/docs/devto'>Devto</a><br></li><li><a href='https://kremilly.com/docs/github'>GitHub</a><br></li><li><a href='https://kremilly.com/docs/hiddenbytes'>HiddenBytes</a><br></li><li><a href='https://kremilly.com/docs/ipinfo'>IPInfo</a><br></li><li><a href='https://kremilly.com/docs/minix'>Minix</a><br></li><li><a href='https://kremilly.com/docs/pageshot'>PageShot</a><br></li><li><a href='https://kremilly.com/docs/passguard'>PassGuard</a><br></li><li><a href='https://kremilly.com/docs/pdfinfo'>PDFInfo</a><br></li><li><a href='https://kremilly.com/docs/pdfscrape'>PDFScrape</a><br></li><li><a href='https://kremilly.com/docs/pdfthumb'>PDFThumb</a><br></li><li><a href='https://kremilly.com/docs/qrcode'>QRCode</a><br></li><li><a href='https://kremilly.com/docs/statslangs'>Statslangs</a><br></li><li><a href='https://kremilly.com/docs/wikipedia'>Wikipedia</a><br></li><!-- DOCS-LIST:END -->
