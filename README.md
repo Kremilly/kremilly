@@ -25,9 +25,9 @@
 
 <p></p>
 
-<!--<div align='center'>
+<div align='center'>
   <img src='https://skillicons.dev/icons?i=rust,javascript,python,cs,go,php' height='40px' />
-</div>-->
+</div>
 
 <p></p>
 
