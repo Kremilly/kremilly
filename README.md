@@ -12,6 +12,7 @@
 </p>
 
 <p></p>
+<img src='https://raw.githubusercontent.com/Kremilly/kremilly/main/images/dancing-gopher.gif' height='164' align='right' />
 
 - 🎉 I'm ***26 years old***
 - 🌎 I'm from [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
