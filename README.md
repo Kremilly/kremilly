@@ -14,14 +14,14 @@
 <img src='https://raw.githubusercontent.com/Kremilly/kremilly/main/images/dancing-gopher.gif' height='140' align='right' />
 
 - 🎉 I'm ***26 years old***
-- 🌎 I'm from [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
+- 🌎 I'm from <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
 - 🌱 I’m ***currently*** learning about [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (self-taught)
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***currently*** main languages are 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" />
            [**Python**](https://python.org), 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="16" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" />
            [**Go**](https://go.dev) & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /> [**Rust**](https://rust-lang.com)
 - 🕰️ My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) in ***2013***
 - 🛠️ My ***main current*** project is [**Scimon**](https://github.com/Scibun/Scimon)
