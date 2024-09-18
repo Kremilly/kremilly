@@ -30,7 +30,7 @@
 <p></p>
 
 <div align='center'>
-  <img src='https://skillicons.dev/icons?i=rust,javascript,python,cs,go,php' height='40px' />
+  <img src='https://skillicons.dev/icons?i=rust,javascript,python,cs,go,php' height='36px' />
 </div>
 
 <details>
