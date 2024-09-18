@@ -33,8 +33,6 @@
   <img src='https://skillicons.dev/icons?i=rust,javascript,python,cs,go,php' height='40px' />
 </div>
 
----
-
 <details>
   <summary>
     📝 <b>Blog posts</b>
