@@ -12,8 +12,6 @@
 
 <p></p>
 
-<!--<img src='https://raw.githubusercontent.com/Kremilly/kremilly/main/images/dancing-gopher.gif' height='140' align='right' />-->
-
 - 🎉 I'm ***26 years old***
 - 🌎 I'm from <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
 - 🌱 I’m ***currently*** learning about [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (self-taught)
