@@ -36,7 +36,7 @@
     📝 <b>Blog posts</b>
   </summary>
   <ul>
-    <!-- BLOG-POST-LIST:START --><li><a href='https://kremilly.com/blog/compiladores'><b>O que é um Compilador?</b></a><br></li><li><a href='https://kremilly.com/blog/nao-use-pollyfill'><b>Não use Polyfill.js!</b></a><br></li><li><a href='https://kremilly.com/blog/porque-usar-rust'><b>Porque usar Rust?</b></a><br></li><li><a href='https://kremilly.com/blog/hello-world'><b>Sejam muito bem-vindos ao meu novo blog!</b></a><br></li><!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START --><li>📰 <a href='https://kremilly.com/blog/compiladores'><b>O que é um Compilador?</b></a><br></li><li>📰 <a href='https://kremilly.com/blog/nao-use-pollyfill'><b>Não use Polyfill.js!</b></a><br></li><li>📰 <a href='https://kremilly.com/blog/porque-usar-rust'><b>Porque usar Rust?</b></a><br></li><li>📰 <a href='https://kremilly.com/blog/hello-world'><b>Sejam muito bem-vindos ao meu novo blog!</b></a><br></li><!-- BLOG-POST-LIST:END -->
   </ul>
 </details>
 
