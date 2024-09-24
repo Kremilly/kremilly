@@ -17,7 +17,7 @@ jobs:
       - name: Pull in kremilly.com
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 1000
+          max_post_count: 100
           feed_list: "https://kremilly.com/rss"
           template: "<li><a href='$url'><b>$title</b></a><br></li>"
           
@@ -27,6 +27,6 @@ jobs:
           comment_tag_name: "DOCS-LIST"
           commit_message: "Updated docs"
           disable_sort: true
-          max_post_count: 1000
+          max_post_count: 100
           feed_list: "https://kremilly.com/rss/docs"
           template: "<li><a href='$url'><b>$title</b></a><br></li>"
