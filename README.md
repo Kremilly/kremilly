@@ -14,7 +14,7 @@
 
 - 🎉 I'm ***26 years old***
 - 🌎 I'm from <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
-- 🌱 I’m ***currently*** learning about [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (self-taught)
+- 🌱 I’m ***currently*** learning about [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (*self-taught*)
 - ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
 - 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
 - 💡 My ***currently*** main languages are 
