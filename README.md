@@ -22,7 +22,7 @@
            [**Python**](https://python.org), 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" />
            [**Go**](https://go.dev) & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /> [**Rust**](https://rust-lang.com)
-- 🧩 My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) in ***2013***
+- 👨‍💻 My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) in ***2013***
 - 🛠️ My ***main currently*** project is [**Scimon**](https://github.com/Scibun/Scimon)
 
 <p></p>
