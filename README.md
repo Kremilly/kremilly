@@ -7,7 +7,7 @@
 <p align='center'>
   🏠 <a href='https://kremilly.com'>Home</a> | 
   📚 <a href='https://kremilly.com/docs'>Documentation's</a> | 
-  ❤️ <a href='https://github.com/sponsors/Kremilly'>Sponsor-me</a>
+  <a href='https://github.com/sponsors/Kremilly'>Sponsor-me</a>
 </p>
 
 <p></p>
