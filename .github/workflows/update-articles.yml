@@ -29,4 +29,14 @@ jobs:
           disable_sort: true
           max_post_count: 100
           feed_list: "https://kremilly.com/rss/docs"
-          template: "<li>📖 <a href='$url'><b>$title</b></a><br></li>"
+          template: "<li>📖 <a href='$url'><b>$title</b></a><br></li>"    
+          
+      - name: Pull in crates.io
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "CRATES-LIST"
+          commit_message: "Updated docs in kremilly.com"
+          disable_sort: true
+          max_post_count: 100
+          feed_list: "https://kremilly.com/rss/crates"
+          template: "<li>📦 <a href='$url'><b>$title</b></a><br></li>"
