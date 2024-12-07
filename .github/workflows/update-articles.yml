@@ -39,4 +39,4 @@ jobs:
           disable_sort: true
           max_post_count: 100
           feed_list: "https://kremilly.com/rss/crates"
-          template: "<li><a href='$url'><b>$title</b></a>: $description<br></li>"
+          template: "<li><a href='$url'><b>$title</b></a><br></li>"
