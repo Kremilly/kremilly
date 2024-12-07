@@ -23,9 +23,17 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" />
            [**Go**](https://go.dev) & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /> [**Rust**](https://rust-lang.com)
 - 👨‍💻 My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) in ***2013***
-- 🛠️ My ***main currently*** project are [**Scimon**](https://github.com/Kremilly/Scimon) & [**DumpSync**](https://github.com/Kremilly/DumpSync)
 
 <p></p>
+
+### 🛠️ Projects
+
+- **[DumpSync](https://github.com/Kremilly/DumpSync)**: DumpSync is a lightweight tool designed for efficiently dumping and restoring MySQL databases. Whether you need to create backups, restore databases, or transfer data between servers.
+- **[Scimon](https://github.com/Kremilly/Scimon)**: Scimon is a tool designed for batch downloading PDF files using its own dedicated language, Monset (.mon). Monset features a very simple and quick-to-write syntax, making it easy to use.
+- **[Minix](https://github.com/Kremilly/Minix)**: A simple Rust-based minifier for JavaScript and CSS that efficiently reduces file size by removing unnecessary characters, whitespace, and comments without affecting functionality.
+- **[Linkscraper](https://github.com/Kremilly/Linkscraper)**: Plunge into the depths of the web with Linkscraper! Uncover links, images, emails, and more swiftly, catering to researchers, developers, and curious explorers alike.
+
+---
 
 <!--<div align='center'>
   <img src='https://skillicons.dev/icons?i=rust,javascript,python,cs,go,php' height='36px' />
