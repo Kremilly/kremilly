@@ -30,7 +30,6 @@
 
 - **[DumpSync](https://github.com/Kremilly/DumpSync)**: DumpSync is a lightweight tool designed for efficiently dumping and restoring MySQL databases. Whether you need to create backups, restore databases, or transfer data between servers.
 - **[Scimon](https://github.com/Kremilly/Scimon)**: Scimon is a tool designed for batch downloading PDF files using its own dedicated language, Monset (.mon). Monset features a very simple and quick-to-write syntax, making it easy to use.
-- **[Minix](https://github.com/Kremilly/Minix)**: A simple Rust-based minifier for JavaScript and CSS that efficiently reduces file size by removing unnecessary characters, whitespace, and comments without affecting functionality.
 - **[Linkscraper](https://github.com/Kremilly/Linkscraper)**: Plunge into the depths of the web with Linkscraper! Uncover links, images, emails, and more swiftly, catering to researchers, developers, and curious explorers alike.
 
 ---
