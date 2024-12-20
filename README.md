@@ -5,7 +5,7 @@
 </div>
 
 <p align='center'>
-  🏠 <a href='https://kremilly.com'>Home</a> | 
+  🏠 <a href='https://kremilly.com'>Home</a> - 
   📚 <a href='https://kremilly.com/docs'>Documentation's</a>
 </p>
 
