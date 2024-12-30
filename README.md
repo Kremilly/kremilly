@@ -5,40 +5,47 @@
 </div>
 
 <p></p>
-
-<table>
-  <tr>
-    <td>🎉 Age</td>
-    <td>26 years old (April 1, 1998)</td>
-  </tr>
-  <tr>
-    <td>🌎 Location</td>
-    <td><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></td>
-  </tr>
-  <tr>
-    <td>🌱 Learning</td>
-    <td><a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a></td>
-  </tr>
-  <tr>
-    <td>⏳Hiperfocuses</td>
-    <td><a href="https://en.wikipedia.org/wiki/Astronomy">Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Philosophy">Philosophy</a> & <a href="https://en.wikipedia.org/wiki/Psychology">Psychology</a></td>
-  </tr>
-  <tr>
-    <td>🏫 Education</td>
-    <td><a href="https://en.wikipedia.org/wiki/Systems_analysis">Systems Analysis</a> at <a href="http://www.unip.br">UNIP</a></td>
-  </tr>
-  <tr>
-    <td>💡 Languages</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" /><a href="https://python.org">Python</a>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" /><a href="https://go.dev">Go</a> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /><a href="https://rust-lang.com">Rust</a></td>
-  </tr>
-  <tr>
-    <td>👨‍💻 First Language</td>
-    <td><a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)">VB.Net</a> in <em><strong>2013</strong></em>
-  </text>
-</svg>
-</td>
-  </tr>
-</table>
+<details>
+  <summary>
+    🪪 <b>Personal information</b>
+  </summary>
+  
+  <p></p>
+  
+  <table>
+    <tr>
+      <td>🎉 Age</td>
+      <td>26 years old (April 1, 1998)</td>
+    </tr>
+    <tr>
+      <td>🌎 Location</td>
+      <td><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></td>
+    </tr>
+    <tr>
+      <td>🌱 Learning</td>
+      <td><a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a></td>
+    </tr>
+    <tr>
+      <td>⏳Hiperfocuses</td>
+      <td><a href="https://en.wikipedia.org/wiki/Astronomy">Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Philosophy">Philosophy</a> & <a href="https://en.wikipedia.org/wiki/Psychology">Psychology</a></td>
+    </tr>
+    <tr>
+      <td>🏫 Education</td>
+      <td><a href="https://en.wikipedia.org/wiki/Systems_analysis">Systems Analysis</a> at <a href="http://www.unip.br">UNIP</a></td>
+    </tr>
+    <tr>
+      <td>💡 Languages</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" /><a href="https://python.org">Python</a>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" /><a href="https://go.dev">Go</a> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /><a href="https://rust-lang.com">Rust</a></td>
+    </tr>
+    <tr>
+      <td>👨‍💻 First Language</td>
+      <td><a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)">VB.Net</a> in <em><strong>2013</strong></em>
+    </text>
+  </svg>
+  </td>
+    </tr>
+  </table>
+</details>
 
 <p></p>
 
