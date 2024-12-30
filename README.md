@@ -32,7 +32,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" /><a href="https://python.org">Python</a>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" /><a href="https://go.dev">Go</a> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /><a href="https://rust-lang.com">Rust</a></td>
   </tr>
   <tr>
-    <td>👨‍💻 My First Language</td>
+    <td>👨‍💻 First Language</td>
     <td><a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)">VB.Net</a> in <em><strong>2013</strong></em>
   </text>
 </svg>
