@@ -1,10 +1,3 @@
-<div align="center">
-  <a href='https://kremilly.com'>
-    <img src="images/new-logo-name.png" height="60" />
-  </a>
-</div>
-
-<p></p>
 <details>
   <summary>
     🪪 <b>Personal information</b>
