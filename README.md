@@ -6,21 +6,43 @@
 
 <p></p>
 
-- 🎉 I'm ***26 years old***
-- 🌎 I'm from <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> [**Brazil**](https://en.wikipedia.org/wiki/Brazil)
-- 🌱 I’m ***currently*** learning about [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science) (*self-taught*)
-- ⏳ My hyperfocuses are [**Astronomy**](https://en.wikipedia.org/wiki/Astronomy), [**Philosophy**](https://en.wikipedia.org/wiki/Philosophy) & [**Psychology**](https://en.wikipedia.org/wiki/Psychology)
-- 🏫 I studied [**Systems Analysis**](https://en.wikipedia.org/wiki/Systems_analysis) at [**UNIP**](http://www.unip.br)
-- 💡 My ***currently*** main languages are 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" />
-           [**Python**](https://python.org), 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" />
-           [**Go**](https://go.dev) & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /> [**Rust**](https://rust-lang.com)
-- 👨‍💻 My ***first*** language was [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) in ***2013***
+<table>
+  <tr>
+    <td>🎉 Age</td>
+    <td>26 years old (April 1, 1998)</td>
+  </tr>
+  <tr>
+    <td>🌎 Location</td>
+    <td><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></td>
+  </tr>
+  <tr>
+    <td>🌱 Learning</td>
+    <td><a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a></td>
+  </tr>
+  <tr>
+    <td>⏳Hiperfocuses</td>
+    <td><a href="https://en.wikipedia.org/wiki/Astronomy">Astronomy</a>, <a href="https://en.wikipedia.org/wiki/Philosophy">Philosophy</a> & <a href="https://en.wikipedia.org/wiki/Psychology">Psychology</a></td>
+  </tr>
+  <tr>
+    <td>🏫 Education</td>
+    <td><a href="https://en.wikipedia.org/wiki/Systems_analysis">Systems Analysis</a> at <a href="http://www.unip.br">UNIP</a></td>
+  </tr>
+  <tr>
+    <td>💡 Languages</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" /><a href="https://python.org">Python</a>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" /><a href="https://go.dev">Go</a> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /><a href="https://rust-lang.com">Rust</a></td>
+  </tr>
+  <tr>
+    <td>👨‍💻 My First Language</td>
+    <td><a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)">VB.Net</a> in <em><strong>2013</strong></em>
+  </text>
+</svg>
+</td>
+  </tr>
+</table>
 
 <p></p>
 
-### 🛠️ Projects
+### 💎 Projects
 
 <table>
   <tbody>
