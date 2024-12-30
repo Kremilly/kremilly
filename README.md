@@ -22,10 +22,26 @@
 
 ### 🛠️ Projects
 
-- **[DumpSync](https://github.com/Kremilly/DumpSync)**: DumpSync is a lightweight tool designed for efficiently dumping and restoring MySQL databases. Whether you need to create backups, restore databases, or transfer data between servers.
-- **[Scimon](https://github.com/Kremilly/Scimon)**: Scimon is a tool designed for batch downloading PDF files using its own dedicated language, Monset (.mon). Monset features a very simple and quick-to-write syntax, making it easy to use.
-- **[ShadowJS](https://github.com/Kremilly/ShadowJS)**: ShadowJS is a fast, lightweight JavaScript obfuscator built with Rust. It protects your code by converting readable identifiers into obscure formats, ensuring security without sacrificing performance.
-- **[Linkscraper](https://github.com/Kremilly/Linkscraper)**: Plunge into the depths of the web with Linkscraper! Uncover links, images, emails, and more swiftly, catering to researchers, developers, and curious explorers alike.
+<table>
+  <tbody>
+    <tr>
+      <td><b><a href='https://github.com/kremilly/DumpSync'>DumpSync</a></b></td>
+      <td>DumpSync is a lightweight tool designed for efficiently dumping and restoring MySQL databases. Whether you need to create backups, restore databases, or transfer data between servers.</td>
+    </tr>
+    <tr>
+      <td><b><a href='https://github.com/Kremilly/Scimon'>Scimon</a></b></td>
+      <td>Scimon is a tool designed for batch downloading PDF files using its own dedicated language, Monset (.mon). Monset features a very simple and quick-to-write syntax, making it easy to use.</td>
+    </tr>
+    <tr>
+      <td><b><a href='https://github.com/Kremilly/ShadowJS'>ShadowJS</a></b></td>
+      <td>ShadowJS is a fast, lightweight JavaScript obfuscator built with Rust. It protects your code by converting readable identifiers into obscure formats, ensuring security without sacrificing performance.</td>
+    </tr>
+    <tr>
+      <td><b><a href='https://github.com/Kremilly/Linkscraper'>Linkscraper</a></b></td>
+      <td>Plunge into the depths of the web with Linkscraper! Uncover links, images, emails, and more swiftly, catering to researchers, developers, and curious explorers alike.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
