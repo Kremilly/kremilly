@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>💡 Languages</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" /><a href="https://python.org">Python</a>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" /><a href="https://go.dev">Go</a> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /><a href="https://rust-lang.com">Rust</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" /><a href="https://python.org"> Python</a>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" /><a href="https://go.dev"> Go</a> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /><a href="https://rust-lang.com"> Rust</a></td>
     </tr>
     <tr>
       <td>👨‍💻 First Language</td>
