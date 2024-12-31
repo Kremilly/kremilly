@@ -42,8 +42,6 @@
 
 <p></p>
 
-### 💎 Projects
-
 <table>
   <tbody>
     <tr>
