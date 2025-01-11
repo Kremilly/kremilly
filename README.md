@@ -5,7 +5,6 @@
   
   <p></p>
   
-  <samp>
   <table>
     <tr>
       <td>🎉 Age</td>
@@ -39,7 +38,6 @@
   </td>
     </tr>
   </table>
-  </samp>
 </details>
 
 <p></p>
