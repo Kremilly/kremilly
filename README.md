@@ -1,6 +1,6 @@
 <details>
   <summary>
-    🪪 <b>Personal information</b>
+    ℹ️ <b>Personal information</b>
   </summary>
   
   <p></p>
