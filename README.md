@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td>🎉 Age</td>
-      <td>26 years old (April 1, 1998)</td>
+      <td>26 years old (April 1)</td>
     </tr>
     <tr>
       <td>🌎 Location</td>
