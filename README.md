@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <td>🧑‍💼 Work</td>
-      <td><a href="https://github.com/Gausix"><b>@Gausix</b></a> // <a href="https://github.com/Abrao-Silva-TI-Corporation"><b>@Abrao-SilvaTI-Corporation</b></a></td>
+      <td><a href="https://github.com/Gausix"><b>@Gausix</b></a> // <a href="https://github.com/Abrao-Silva-TI-Corporation"><b>@Abrao-Silva-TI-Corporation</b></a></td>
     </tr>
     <tr>
       <td>🌎 Location</td>
