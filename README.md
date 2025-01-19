@@ -11,6 +11,10 @@
       <td>26 years old (April 1, <b>1998</b>)</td>
     </tr>
     <tr>
+      <td>🧑‍💼 Work</td>
+      <td><a href="https://github.com/Gausix"><b>@Gausix</b></a> // <a href="https://github.com/Abrao-Silva-TI-Corporation"><b>@Abrao-SilvaTI-Corporation</b></a></td>
+    </tr>
+    <tr>
       <td>🌎 Location</td>
       <td><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></td>
     </tr>
