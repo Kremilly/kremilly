@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <td>♿ Disability</td>
-      <td>Cerebral Palsy & Muscular Dystrophy</td>
+      <td><a href="https://en.wikipedia.org/wiki/Cerebral_palsy">Cerebral Palsy</a> & <a href="https://en.wikipedia.org/wiki/Muscular_dystrophy">Muscular Dystrophy</a></td>
     </tr>
     <tr>
       <td>🧑‍💼 Work</td>
