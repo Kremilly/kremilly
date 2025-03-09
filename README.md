@@ -63,11 +63,11 @@
     <!--<tr>
       <td><b><a href='https://github.com/Gausix/ShadowJS'>ShadowJS</a></b></td>
       <td>ShadowJS is a fast, lightweight JavaScript obfuscator built with Rust. It protects your code by converting readable identifiers into obscure formats, ensuring security without sacrificing performance.</td>
-    </tr>-->
+    </tr>
     <tr>
       <td><b><a href='https://github.com/Kremilly/Linkscraper'>Linkscraper</a></b></td>
       <td>Plunge into the depths of the web with Linkscraper! Uncover links, images, emails, and more swiftly, catering to researchers, developers, and curious explorers alike.</td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 
