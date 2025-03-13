@@ -28,8 +28,8 @@ jobs:
           commit_message: "Updated docs in kremilly.com"
           disable_sort: true
           max_post_count: 100
-          feed_list: "https://kremilly.com/rss/docs"
-          template: "<li><a href='$url'><b>$title</b></a><br></li>"    
+          feed_list: "https://docs.kremilly.com/feed_rss_created.xml"
+          template: "<li><a href='$link'><b>$title</b></a><br></li>"    
           
       - name: Pull in crates.io
         uses: gautamkrishnar/blog-post-workflow@v1
