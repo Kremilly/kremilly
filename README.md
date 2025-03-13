@@ -88,15 +88,6 @@
 
 <details>
   <summary>
-    <b>Documentation's</b>
-  </summary>
-  <ul>
-    <!-- DOCS-LIST:START --><li><a href='https://kremilly.com/docs/cve'><b>CVE</b></a><br></li><li><a href='https://kremilly.com/docs/devto'><b>Devto</b></a><br></li><li><a href='https://kremilly.com/docs/github'><b>GitHub</b></a><br></li><li><a href='https://kremilly.com/docs/hiddenbytes'><b>HiddenBytes</b></a><br></li><li><a href='https://kremilly.com/docs/ipx'><b>IPX</b></a><br></li><li><a href='https://kremilly.com/docs/minix'><b>Minix</b></a><br></li><li><a href='https://kremilly.com/docs/pageshot'><b>PageShot</b></a><br></li><li><a href='https://kremilly.com/docs/passguard'><b>PassGuard</b></a><br></li><li><a href='https://kremilly.com/docs/pdfinfo'><b>PDFInfo</b></a><br></li><li><a href='https://kremilly.com/docs/pdfscrape'><b>PDFScrape</b></a><br></li><li><a href='https://kremilly.com/docs/pdfthumb'><b>PDFThumb</b></a><br></li><li><a href='https://kremilly.com/docs/qrcode'><b>QRCode</b></a><br></li><li><a href='https://kremilly.com/docs/statslangs'><b>Statslangs</b></a><br></li><li><a href='https://kremilly.com/docs/wikipedia'><b>Wikipedia</b></a><br></li><!-- DOCS-LIST:END -->
-  </ul>
-</details>
-
-<details>
-  <summary>
     <b>Crate's</b>
   </summary>
   <ul>
