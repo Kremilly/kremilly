@@ -65,6 +65,10 @@
       <td>ShadowJS is a fast, lightweight JavaScript obfuscator built with Rust. It protects your code by converting readable identifiers into obscure formats, ensuring security without sacrificing performance.</td>
     </tr>
     <tr>
+      <td><b><a href='https://github.com/Gausix/Minix'>Minix</a></b></td>
+      <td>A simple Rust-based minifier for JavaScript and CSS that efficiently reduces file size by removing unnecessary characters, whitespace, and comments without affecting functionality.</td>
+    </tr>
+    <tr>
       <td><b><a href='https://github.com/Kremilly/Linkscraper'>Linkscraper</a></b></td>
       <td>Plunge into the depths of the web with Linkscraper! Uncover links, images, emails, and more swiftly, catering to researchers, developers, and curious explorers alike.</td>
     </tr>
