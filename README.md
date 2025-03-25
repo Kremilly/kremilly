@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Kremilly
+### 👋 Hi, I’m Kremilly
 
 I'm a *backend* developer with experience building high‑performance, scalable, and secure systems using [**Rust**](https://rust-lang.org/), [**Python**](https://python.org), and [**Go**](https://go.dev). I have a strong understanding of concepts such as concurrency, performance optimization, and robust API design.
 
