@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Kremilly
 
-I'm a **backend** developer with experience building high‑performance, scalable, and secure systems using **Rust**, **Python**, and **Go**. I have a strong understanding of concepts such as concurrency, performance optimization, and robust API design.
+I'm a *backend* developer with experience building high‑performance, scalable, and secure systems using **Rust**, **Python**, and **Go**. I have a strong understanding of concepts such as concurrency, performance optimization, and robust API design.
 
 <details>
   <summary>
