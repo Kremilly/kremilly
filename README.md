@@ -12,7 +12,7 @@ I'm a *backend* developer with experience building high‑performance, scalable,
   <table>
     <tr>
       <td>🎉 Age</td>
-      <td>26 years old (April 1, 1998)</td>
+      <td>27 years old (April 1, 1998)</td>
     </tr>
     <tr>
       <td>♿ Disability</td>
