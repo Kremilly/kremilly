@@ -18,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 100
-          feed_list: "https://blog.kremilly.com/rss"
+          feed_list: "https://blog.kremilly.com/feed.xml"
           template: "<li><a href='$url'><b>$title</b></a>: $description<br></li>"
           
       - name: Pull in api.kremilly.com
