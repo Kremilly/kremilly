@@ -38,5 +38,5 @@ jobs:
           commit_message: "Updated docs in kremilly.com"
           disable_sort: true
           max_post_count: 100
-          feed_list: "https://archives.kremilly.com/rss/crates"
+          feed_list: "https://blog.kremilly.com/crates.xml"
           template: "<li><a href='$url'><b>$title</b></a><br></li>"
