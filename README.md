@@ -57,19 +57,17 @@ I'm a *backend* developer with experience building high‑performance, scalable,
 <table>
   <tbody>
     <tr>
-      <td><b><a href='https://github.com/Gausix/DumpSync'>DumpSync</a></b></td>
       <td>
         DumpSync is a lightweight tool designed for efficiently dumping and restoring MySQL databases. Whether you need to create backups, restore databases, or transfer data between servers.
         <br>
-        <b><a href='https://dumpsync.com'>Website</a></b> | <b><a href='https://docs.dumpsync.com'>Docs</a></b>
+        <b><a href='https://dumpsync.com'>Website</a></b> | <b><a href='https://docs.dumpsync.com'>Docs</a></b> | <b><a href='https://github.com/Gausix/DumpSync'>Repository</a></b>
       </td>
     </tr>
     <tr>
-      <td><b><a href='https://github.com/Gausix/Scimon'>Scimon</a></b></td>
       <td>
         Scimon is a tool designed for batch downloading PDF files using its own dedicated language, Monset (.mon). Monset features a very simple and quick-to-write syntax, making it easy to use.
         <br>
-        <b><a href='https://scimon.dev'>Website</a></b>
+        <b><a href='https://scimon.dev'>Website</a></b> | <b><a href='https://github.com/Gausix/DumpSync'>Repository</a></b>
       </td>
     </tr>
     <!--<tr>
