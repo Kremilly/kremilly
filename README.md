@@ -17,11 +17,11 @@ I'm a *backend* developer with experience building high‑performance, scalable,
     <tr>
       <td>🎉 Age</td>
       <td>27 years old (April 1, 1998)</td>
-    </tr>
+<!--     </tr>
     <tr>
       <td>♿ Disability</td>
       <td><a href="https://en.wikipedia.org/wiki/Cerebral_palsy">Cerebral Palsy</a> & <a href="https://en.wikipedia.org/wiki/Muscular_dystrophy">Muscular Dystrophy</a></td>
-    </tr>
+    </tr> -->
     <tr>
       <td>🧑‍💼 Work</td>
       <td><a href="https://github.com/Gausix">@Gausix</a></td>
