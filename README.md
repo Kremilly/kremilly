@@ -6,6 +6,10 @@ I'm a *backend* developer with experience building high‑performance, scalable,
 
 <p></p>
 
+<div style='center'><img src='https://github-readme-stats.vercel.app/api?username=kremilly&theme=github_dark_dimmed&show_icons=true' align='center' /></div>
+
+<p></p>
+
 <details>
   <summary>
     <b>Personal information</b>
