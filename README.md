@@ -2,11 +2,11 @@
 
 I'm a *backend* developer with experience building high‑performance, scalable, and secure systems using [**Rust**](https://rust-lang.org/), [**Python**](https://python.org), and [**Go**](https://go.dev). I have a strong understanding of concepts such as concurrency, performance optimization, and robust API design.
 
-<div style='center'><img src='https://ghchart.rshah.org/kremilly' align='center' /></div>
+<!--<div style='center'><img src='https://ghchart.rshah.org/kremilly' align='center' /></div>
 
 <p></p>
 
-<div style='center'><img src='https://github-readme-stats.vercel.app/api?username=kremilly&theme=github_dark_dimmed&show_icons=true' align='center' /></div>
+<div style='center'><img src='https://github-readme-stats.vercel.app/api?username=kremilly&theme=github_dark_dimmed&show_icons=true' align='center' /></div>!-->
 
 <p></p>
 
