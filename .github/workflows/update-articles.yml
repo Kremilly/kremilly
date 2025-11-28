@@ -18,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 100
-          feed_list: "https://blog.kremilly.com/feed.xml"
+          feed_list: "https://kremilly.com/rss"
           template: "<li><a href='$url'><b>$title</b></a>: $description<br></li>"
           
       - name: Pull in api.kremilly.com
@@ -38,5 +38,5 @@ jobs:
           commit_message: "Updated docs in kremilly.com"
           disable_sort: true
           max_post_count: 100
-          feed_list: "https://blog.kremilly.com/crates.xml"
+          feed_list: "https://kremilly.com/rss/crates"
           template: "<li><a href='$url'><b>$title</b></a><br></li>"
