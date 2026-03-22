@@ -74,7 +74,7 @@ I'm a *backend* developer with experience building high‑performance, scalable,
         <br>
         &#8192;
         <br>
-        <b>✶ <a href='https://scimon.dev'>Website</a></b> <b>✶ <a href='https://docs.scimon.dev'>Docs</a></b> <b>✶ <a href='https://github.com/Gausix/DumpSync'>Repository</a></b>
+        <b>✶ <a href='https://scimon.dev'>Website</a></b> <b>✶ <a href='https://docs.scimon.dev'>Docs</a></b> <b>✶ <a href='https://github.com/YeDawa/Scimon'>Repository</a></b>
       </td>
     </tr>
   </tbody>
