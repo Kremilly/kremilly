@@ -65,7 +65,7 @@ I'm a *backend* developer with experience building high‑performance, scalable,
         <br>
         &#8192;
         <br>
-        <b>✶ <a href='https://dumpsync.com'>Website</a></b> <b>✶ <a href='https://docs.dumpsync.com'>Docs</a></b> <b>✶ <a href='https://github.com/Gausix/DumpSync'>Repository</a></b>
+        <b>✶ <a href='https://dumpsync.com'>Website</a></b> <b>✶ <a href='https://docs.dumpsync.com'>Docs</a></b> <b>✶ <a href='https://github.com/YeDawa/DumpSync'>Repository</a></b>
       </td>
     </tr>
     <tr>
