@@ -20,7 +20,7 @@ I'm a *backend* developer with experience building high‑performance, scalable,
   <table>
     <tr>
       <td>🎉 Age</td>
-      <td>27 years old (April 1, 1998)</td>
+      <td>28 years old (April 1, 1998)</td>
     <tr>
       <td>🧑‍💼 Work</td>
       <td><a href="https://github.com/YeDawa">@YeDawa</a></td>
