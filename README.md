@@ -1,6 +1,8 @@
 ### 👋 Hi, I’m Kremilly
 
-I'm a *backend* developer with experience building high‑performance, scalable, and secure systems using [**Rust**](https://rust-lang.org/), [**Python**](https://python.org), and [**Go**](https://go.dev). I have a strong understanding of concepts such as concurrency, performance optimization, and robust API design.
+I'm a ***Systems & Backend Engineer*** specializing in high-performance, memory-safe, and secure architectures. My work focuses on building the next generation of infrastructure tools using [**Rust**](https://rust-lang.org/), [**Python**](https://python.org), and [**Go**](https://go.dev). 
+
+I specialize in concurrency, low-level optimization, and security research, developing tools that bridge the gap between software reliability and offensive security.
 
 <!--<div style='center'><img src='https://ghchart.rshah.org/kremilly' align='center' /></div>
 
