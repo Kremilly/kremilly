@@ -105,12 +105,3 @@ I specialize in concurrency, low-level optimization, and security research, deve
     <!-- DOCS-LIST:START --><li><a href='https://docs.kremilly.com/'><b>Overview</b></a><br></li><li><a href='https://docs.kremilly.com/cve/'><b>CVE</b></a><br></li><li><a href='https://docs.kremilly.com/devto/'><b>Devto</b></a><br></li><li><a href='https://docs.kremilly.com/github/'><b>GitHub</b></a><br></li><li><a href='https://docs.kremilly.com/hiddenbytes/'><b>HiddenBytes</b></a><br></li><li><a href='https://docs.kremilly.com/ipx/'><b>IPX</b></a><br></li><li><a href='https://docs.kremilly.com/minix/'><b>Minix</b></a><br></li><li><a href='https://docs.kremilly.com/pageshot/'><b>PageShot</b></a><br></li><li><a href='https://docs.kremilly.com/passguard/'><b>PassGuard</b></a><br></li><li><a href='https://docs.kremilly.com/pdfinfo/'><b>PDFInfo</b></a><br></li><li><a href='https://docs.kremilly.com/pdfscrape/'><b>PDFScrape</b></a><br></li><li><a href='https://docs.kremilly.com/pdfthumb/'><b>PDFThumb</b></a><br></li><li><a href='https://docs.kremilly.com/qrcode/'><b>QRCode</b></a><br></li><li><a href='https://docs.kremilly.com/shadowjs/'><b>ShadowJS</b></a><br></li><li><a href='https://docs.kremilly.com/statslangs/'><b>StatsLangs</b></a><br></li><li><a href='https://docs.kremilly.com/wikipedia/'><b>Wikipedia</b></a><br></li><!-- DOCS-LIST:END -->
   </ul>
 </details>
-
-<details>
-  <summary>
-    <b>Crate's</b>
-  </summary>
-  <ul>
-    <!-- CRATES-LIST:START --><li><a href='https://crates.io/crates/HiddenBytes'><b>HiddenBytes</b></a><br></li><li><a href='https://crates.io/crates/ShadowJS'><b>ShadowJS</b></a><br></li><li><a href='https://crates.io/crates/dumpsync'><b>dumpsync</b></a><br></li><li><a href='https://crates.io/crates/enigmify'><b>enigmify</b></a><br></li><li><a href='https://crates.io/crates/ipinfo-cli'><b>ipinfo-cli</b></a><br></li><li><a href='https://crates.io/crates/ipx'><b>ipx</b></a><br></li><li><a href='https://crates.io/crates/minix'><b>minix</b></a><br></li><li><a href='https://crates.io/crates/pageshot'><b>pageshot</b></a><br></li><li><a href='https://crates.io/crates/passguard'><b>passguard</b></a><br></li><!-- CRATES-LIST:END -->
-  </ul>
-</details>
