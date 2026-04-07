@@ -70,7 +70,7 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
         <b>✶ <a href='https://dumpsync.com'>Website</a></b> <b>✶ <a href='https://docs.dumpsync.com'>Docs</a></b> <b>✶ <a href='https://github.com/YeDawa/DumpSync'>Repository</a></b>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Scimon is a tool designed for batch downloading PDF files using its own dedicated language, Monset (.mon). Monset features a very simple and quick-to-write syntax, making it easy to use.
         <br>
@@ -78,7 +78,7 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
         <br>
         <b>✶ <a href='https://scimon.dev'>Website</a></b> <b>✶ <a href='https://docs.scimon.dev'>Docs</a></b> <b>✶ <a href='https://github.com/YeDawa/Scimon'>Repository</a></b>
       </td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
