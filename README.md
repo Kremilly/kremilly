@@ -93,7 +93,7 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
     <b>Blog posts</b>
   </summary>
   <ul>
-    <!-- BLOG-POST-LIST:START --><li><a href='https://kremilly.com/posts/o-que-e-um-compilador'><b>O que é um compilador?</b></a><br></li><!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START --><li><a href='https://kremilly.com/post/o-que-sao-compiladores'><b>O que é um Compilador?</b></a><br></li><li><a href='https://kremilly.com/post/nao-use-pollyfill'><b>Não use Polyfill.js!</b></a><br></li><li><a href='https://kremilly.com/post/porque-usar-rust'><b>Porque usar Rust?</b></a><br></li><!-- BLOG-POST-LIST:END -->
   </ul>
 </details>
 
