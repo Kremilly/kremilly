@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kremilly
 
-I'm a ***Systems & Backend Engineer*** specializing in high-performance, memory-safe, and secure architectures. My work focuses on building the next generation of infrastructure tools using [**Rust**](https://rust-lang.org/), [**Python**](https://python.org), and [**Go**](https://go.dev). 
+I'm a ***Systems & Backend Engineer*** specializing in **high-performance**, **memory-safe**, and **secure architectures**. My work focuses on building the next generation of infrastructure tools using [**Rust**](https://rust-lang.org/), [**Python**](https://python.org), and [**Go**](https://go.dev). 
 
 I specialize in **concurrency**, **low-level optimization**, and **security research**, developing tools that bridge the gap between software reliability and offensive security.
 
