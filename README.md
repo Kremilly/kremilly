@@ -59,7 +59,7 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
 
 <p></p>
 
-<table>
+<!--<table>
   <tbody>
     <tr>
       <td>
@@ -80,7 +80,7 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
       </td>
     </tr>
   </tbody>
-</table>
+</table>-->
 
 ---
 
