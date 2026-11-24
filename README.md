@@ -45,7 +45,7 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
     </tr>
     <tr>
       <td>💡 Languages</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" /><a href="https://python.org"> Python</a>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="16" /><a href="https://go.dev"> Go</a> & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" /><a href="https://rust-lang.com"> Rust</a></td>
+      <td><a href="https://python.org"> Python</a>, <a href="https://go.dev"> Go</a>, <a href="https://www.typescriptlang.org"> TypScript</a> & <a href="https://rust-lang.com"> Rust</a></td>
     </tr>
     <tr>
       <td>👨‍💻 First Language</td>
