@@ -4,11 +4,6 @@ I'm a **Systems & Backend Engineer** specializing in **high-performance**, **mem
 
 I specialize in **concurrency**, **low-level optimization**, and **security research**, developing tools that bridge the gap between software reliability and offensive security.
 
-<!--<div style='center'><img src='https://ghchart.rshah.org/kremilly' align='center' /></div>
-
-<p></p>
-<div style='center'><img src='https://github-readme-stats.vercel.app/api?username=kremilly&theme=github_dark_dimmed&show_icons=true' align='center' /></div>!-->
-
 <div align='center'>
   <img src='https://skillicons.dev/icons?i=rust,typescript,python,go' height='36px' />
 </div>
