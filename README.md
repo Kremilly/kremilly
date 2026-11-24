@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kremilly
 
-I'm a **Systems & Backend Engineer** specializing in **high-performance**, **memory-safe**, and **secure architectures**. My work focuses on building the next generation of infrastructure tools using [**Rust**](https://rust-lang.org/), [**Python**](https://python.org), [**TypeScript**](https://www.typescriptlang.org), and [**Go**](https://go.dev). 
+I'm a **Systems & Backend Engineer** specializing in **high-performance**, **memory-safe**, and **secure architectures**. My work focuses on building the next generation of infrastructure tools using [**Rust**](https://rust-lang.org), [**Python**](https://python.org), [**TypeScript**](https://www.typescriptlang.org), and [**Go**](https://go.dev). 
 
 I specialize in **concurrency**, **low-level optimization**, and **security research**, developing tools that bridge the gap between software reliability and offensive security.
 
@@ -8,6 +8,10 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
 
 <p></p>
 <div style='center'><img src='https://github-readme-stats.vercel.app/api?username=kremilly&theme=github_dark_dimmed&show_icons=true' align='center' /></div>!-->
+
+<div align='center'>
+  <img src='https://skillicons.dev/icons?i=rust,typescript,python,go' height='36px' />
+</div>
 
 <p></p>
 
@@ -82,10 +86,6 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
 </table>-->
 
 <!-- --- -->
-
-<!--<div align='center'>
-  <img src='https://skillicons.dev/icons?i=rust,javascript,python,cs,go,php' height='36px' />
-</div>-->
 
 <details>
   <summary>
