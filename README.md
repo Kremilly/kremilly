@@ -4,10 +4,6 @@ I'm a **Systems & Backend Engineer** specializing in **high-performance**, **mem
 
 I specialize in **concurrency**, **low-level optimization**, and **security research**, developing tools that bridge the gap between software reliability and offensive security.
 
-<div align='center'>
-  <img src='https://skillicons.dev/icons?i=rust,typescript,python,go' height='36px' />
-</div>
-
 <p></p>
 
 <details>
