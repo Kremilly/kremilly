@@ -32,7 +32,7 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
     </tr>
     <tr>
       <td>🌎 Location</td>
-      <td><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="16" /> <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a></td>
     </tr>
     <tr>
       <td>🌱 Learning</td>
