@@ -19,7 +19,7 @@ I specialize in **concurrency**, **low-level optimization**, and **security rese
       <td>28 years old (April 1, 1998)</td>
     <tr>
       <td>🧑‍💼 Work</td>
-      <td><a href="https://github.com/YeDawa">@YeDawa</a> // <a href="https://github.com/SciKnowNet">@SciKnow</a></td>
+      <td><a href="https://github.com/YeDawa">@YeDawa</a> // <a href="https://github.com/HashPic">@HashPic</a></td>
     </tr>
     <tr>
       <td>🌎 Location</td>
